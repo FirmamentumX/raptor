@@ -1,0 +1,627 @@
+2025-04-26 19:04:30,373 - INFO - Use pytorch device_name: cuda:0
+2025-04-26 19:04:30,375 - INFO - Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-cos-v1
+2025-04-26 19:04:36,327 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f0a0f729f10>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0eb66490>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:04:36,328 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f0a0f729f10>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0eb66490>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:04:36,328 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f0a0f729f10>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0eb66490>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0eb66490>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7f0a0f745450>
+            Tree Builder Type: cluster
+        
+2025-04-26 19:04:36,352 - INFO - Creating Leaf Nodes
+2025-04-26 19:04:42,200 - INFO - Created 17 Leaf Embeddings
+2025-04-26 19:04:42,200 - INFO - Building All Nodes
+2025-04-26 19:04:42,201 - INFO - Using Cluster TreeBuilder
+2025-04-26 19:04:42,201 - INFO - Constructing Layer 0
+2025-04-26 19:04:49,253 - INFO - Summarization Length: 100
+2025-04-26 19:05:02,819 - INFO - Node Texts Length: 162, Summarized Text Length: 211
+2025-04-26 19:05:25,170 - INFO - Node Texts Length: 385, Summarized Text Length: 431
+2025-04-26 19:05:44,185 - INFO - Node Texts Length: 241, Summarized Text Length: 290
+2025-04-26 19:06:04,930 - INFO - Node Texts Length: 270, Summarized Text Length: 316
+2025-04-26 19:06:28,156 - INFO - Node Texts Length: 362, Summarized Text Length: 411
+2025-04-26 19:06:28,991 - INFO - Constructing Layer 1
+2025-04-26 19:06:28,991 - INFO - Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: 1
+2025-04-26 19:06:28,991 - INFO - Successfully initialized TreeRetriever with Config 
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0eb66490>
+            Num Layers: None
+            Start Layer: None
+        
+2025-04-26 19:06:28,991 - INFO - Using collapsed_tree
+2025-04-26 19:07:08,818 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: /wiki/Emiljano_Vila#P54#0
+Question: Which team did Emiljano Vila play for from 2003 to 2004? Answer in less than 5-7 words, if no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Albania national football team']
+EM: 0, F1: 0.0000
+=================
+
+2025-04-26 19:07:56,906 - INFO - Use pytorch device_name: cuda:0
+2025-04-26 19:07:56,908 - INFO - Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-cos-v1
+2025-04-26 19:08:02,707 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc18c910>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc2abc10>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:08:02,708 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc18c910>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc2abc10>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:08:02,709 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc18c910>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc2abc10>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc2abc10>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7f0a0f12a290>
+            Tree Builder Type: cluster
+        
+2025-04-26 19:08:02,733 - INFO - Creating Leaf Nodes
+2025-04-26 19:08:04,935 - INFO - Created 17 Leaf Embeddings
+2025-04-26 19:08:04,935 - INFO - Building All Nodes
+2025-04-26 19:08:04,936 - INFO - Using Cluster TreeBuilder
+2025-04-26 19:08:04,936 - INFO - Constructing Layer 0
+2025-04-26 19:08:07,261 - INFO - Summarization Length: 100
+2025-04-26 19:08:19,233 - INFO - Node Texts Length: 258, Summarized Text Length: 307
+2025-04-26 19:08:30,912 - INFO - Node Texts Length: 764, Summarized Text Length: 810
+2025-04-26 19:08:43,770 - INFO - Node Texts Length: 398, Summarized Text Length: 444
+2025-04-26 19:08:44,076 - INFO - Constructing Layer 1
+2025-04-26 19:08:44,078 - INFO - Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: 1
+2025-04-26 19:08:44,078 - INFO - Successfully initialized TreeRetriever with Config 
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc2abc10>
+            Num Layers: None
+            Start Layer: None
+        
+2025-04-26 19:08:44,079 - INFO - Using collapsed_tree
+2025-04-26 19:08:49,953 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: /wiki/Emiljano_Vila#P54#1
+Question: Emiljano Vila played for which team from 2005 to 2006? Answer in less than 5-7 words, if no answer, say 'N/A'.
+Prediction: Teuta Durrës
+Processed Targets: ['Teuta Durrës']
+EM: 1, F1: 1.0000
+=================
+
+2025-04-26 19:09:03,863 - INFO - Use pytorch device_name: cuda:0
+2025-04-26 19:09:03,863 - INFO - Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-cos-v1
+2025-04-26 19:09:07,707 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc7a7fd0>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0c16cbd0>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:09:07,707 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc7a7fd0>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0c16cbd0>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:09:07,707 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc7a7fd0>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0c16cbd0>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0c16cbd0>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7f09ffcd4dd0>
+            Tree Builder Type: cluster
+        
+2025-04-26 19:09:07,709 - INFO - Creating Leaf Nodes
+2025-04-26 19:09:09,792 - INFO - Created 17 Leaf Embeddings
+2025-04-26 19:09:09,792 - INFO - Building All Nodes
+2025-04-26 19:09:09,793 - INFO - Using Cluster TreeBuilder
+2025-04-26 19:09:09,793 - INFO - Constructing Layer 0
+2025-04-26 19:09:11,899 - INFO - Summarization Length: 100
+2025-04-26 19:09:23,295 - INFO - Node Texts Length: 259, Summarized Text Length: 308
+2025-04-26 19:09:37,341 - INFO - Node Texts Length: 241, Summarized Text Length: 290
+2025-04-26 19:09:50,517 - INFO - Node Texts Length: 362, Summarized Text Length: 411
+2025-04-26 19:10:03,461 - INFO - Node Texts Length: 558, Summarized Text Length: 602
+2025-04-26 19:10:03,750 - INFO - Constructing Layer 1
+2025-04-26 19:10:03,750 - INFO - Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: 1
+2025-04-26 19:10:03,750 - INFO - Successfully initialized TreeRetriever with Config 
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0c16cbd0>
+            Num Layers: None
+            Start Layer: None
+        
+2025-04-26 19:10:03,750 - INFO - Using collapsed_tree
+2025-04-26 19:10:08,730 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: /wiki/Emiljano_Vila#P54#2
+Question: Which team did the player Emiljano Vila belong to in 2006? Answer in less than 5-7 words, if no answer, say 'N/A'.
+Prediction: Teuta Durrës
+Processed Targets: ['N/A']
+EM: 0, F1: 0.0000
+=================
+
+2025-04-26 19:10:57,858 - INFO - Use pytorch device_name: cuda:0
+2025-04-26 19:10:57,859 - INFO - Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-cos-v1
+2025-04-26 19:11:12,116 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc35fc50>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0efdf150>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:11:12,117 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc35fc50>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0efdf150>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:11:12,117 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc35fc50>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0efdf150>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0efdf150>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7f09ff3dfad0>
+            Tree Builder Type: cluster
+        
+2025-04-26 19:11:12,136 - INFO - Creating Leaf Nodes
+2025-04-26 19:11:14,361 - INFO - Created 17 Leaf Embeddings
+2025-04-26 19:11:14,361 - INFO - Building All Nodes
+2025-04-26 19:11:14,362 - INFO - Using Cluster TreeBuilder
+2025-04-26 19:11:14,362 - INFO - Constructing Layer 0
+2025-04-26 19:11:16,606 - INFO - Summarization Length: 100
+2025-04-26 19:11:29,287 - INFO - Node Texts Length: 162, Summarized Text Length: 211
+2025-04-26 19:11:43,507 - INFO - Node Texts Length: 321, Summarized Text Length: 370
+2025-04-26 19:11:55,951 - INFO - Node Texts Length: 282, Summarized Text Length: 331
+2025-04-26 19:12:10,297 - INFO - Node Texts Length: 270, Summarized Text Length: 318
+2025-04-26 19:12:23,337 - INFO - Node Texts Length: 385, Summarized Text Length: 429
+2025-04-26 19:12:23,656 - INFO - Constructing Layer 1
+2025-04-26 19:12:23,656 - INFO - Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: 1
+2025-04-26 19:12:23,657 - INFO - Successfully initialized TreeRetriever with Config 
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a0efdf150>
+            Num Layers: None
+            Start Layer: None
+        
+2025-04-26 19:12:23,657 - INFO - Using collapsed_tree
+2025-04-26 19:12:28,781 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: /wiki/Emiljano_Vila#P54#3
+Question: Which team did Emiljano Vila play for from 2009 to 2010? Answer in less than 5-7 words, if no answer, say 'N/A'.
+Prediction: Dinamo Zagreb
+Processed Targets: ['Croatian champions Dinamo Zagreb']
+EM: 0, F1: 0.6667
+=================
+
+2025-04-26 19:12:42,898 - INFO - Use pytorch device_name: cuda:0
+2025-04-26 19:12:42,898 - INFO - Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-cos-v1
+2025-04-26 19:12:47,535 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc3dfd90>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a041d9b50>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:12:47,535 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc3dfd90>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a041d9b50>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:12:47,535 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc3dfd90>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a041d9b50>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a041d9b50>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7f09ff5d0950>
+            Tree Builder Type: cluster
+        
+2025-04-26 19:12:47,537 - INFO - Creating Leaf Nodes
+2025-04-26 19:12:49,580 - INFO - Created 17 Leaf Embeddings
+2025-04-26 19:12:49,581 - INFO - Building All Nodes
+2025-04-26 19:12:49,581 - INFO - Using Cluster TreeBuilder
+2025-04-26 19:12:49,581 - INFO - Constructing Layer 0
+2025-04-26 19:12:49,628 - INFO - Summarization Length: 100
+2025-04-26 19:13:03,843 - INFO - Node Texts Length: 162, Summarized Text Length: 211
+2025-04-26 19:13:17,780 - INFO - Node Texts Length: 241, Summarized Text Length: 290
+2025-04-26 19:13:31,917 - INFO - Node Texts Length: 398, Summarized Text Length: 446
+2025-04-26 19:13:45,663 - INFO - Node Texts Length: 257, Summarized Text Length: 301
+2025-04-26 19:13:58,187 - INFO - Node Texts Length: 362, Summarized Text Length: 411
+2025-04-26 19:13:58,433 - INFO - Constructing Layer 1
+2025-04-26 19:13:58,433 - INFO - Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: 1
+2025-04-26 19:13:58,433 - INFO - Successfully initialized TreeRetriever with Config 
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f0a041d9b50>
+            Num Layers: None
+            Start Layer: None
+        
+2025-04-26 19:13:58,433 - INFO - Using collapsed_tree
+2025-04-26 19:14:02,818 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: /wiki/Emiljano_Vila#P54#4
+Question: Emiljano Vila played for which team from 2010 to 2011? Answer in less than 5-7 words, if no answer, say 'N/A'.
+Prediction: PAS Giannina
+Processed Targets: ['Dinamo Tirana']
+EM: 0, F1: 0.0000
+=================
+
+2025-04-26 19:14:17,082 - INFO - Use pytorch device_name: cuda:0
+2025-04-26 19:14:17,082 - INFO - Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-cos-v1
+2025-04-26 19:14:21,261 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc37d950>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc6a1c10>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:14:21,262 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc37d950>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc6a1c10>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-04-26 19:14:21,262 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7f09fc37d950>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc6a1c10>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc6a1c10>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7f0a4d0a82d0>
+            Tree Builder Type: cluster
+        
+2025-04-26 19:14:21,263 - INFO - Creating Leaf Nodes
+2025-04-26 19:14:21,551 - INFO - Created 17 Leaf Embeddings
+2025-04-26 19:14:21,551 - INFO - Building All Nodes
+2025-04-26 19:14:21,552 - INFO - Using Cluster TreeBuilder
+2025-04-26 19:14:21,552 - INFO - Constructing Layer 0
+2025-04-26 19:14:23,390 - INFO - Summarization Length: 100
+2025-04-26 19:14:38,149 - INFO - Node Texts Length: 162, Summarized Text Length: 211
+2025-04-26 19:14:51,103 - INFO - Node Texts Length: 385, Summarized Text Length: 431
+2025-04-26 19:15:04,952 - INFO - Node Texts Length: 270, Summarized Text Length: 319
+2025-04-26 19:15:19,389 - INFO - Node Texts Length: 270, Summarized Text Length: 316
+2025-04-26 19:15:31,308 - INFO - Node Texts Length: 333, Summarized Text Length: 382
+2025-04-26 19:15:31,855 - INFO - Constructing Layer 1
+2025-04-26 19:15:31,855 - INFO - Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: 1
+2025-04-26 19:15:31,855 - INFO - Successfully initialized TreeRetriever with Config 
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7f09fc6a1c10>
+            Num Layers: None
+            Start Layer: None
+        
+2025-04-26 19:15:31,855 - INFO - Using collapsed_tree
+2025-04-26 19:15:36,530 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: /wiki/Emiljano_Vila#P54#5
+Question: Which team did the player Emiljano Vila belong to from 2011 to 2014? Answer in less than 5-7 words, if no answer, say 'N/A'.
+Prediction: Teuta Durrës
+Processed Targets: ['Partizani Tirana']
+EM: 0, F1: 0.0000
+=================
+
