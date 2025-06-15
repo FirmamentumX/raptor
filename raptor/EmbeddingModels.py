@@ -31,7 +31,8 @@ class OpenAIEmbeddingModel(BaseEmbeddingModel):
 
 class SBertEmbeddingModel(BaseEmbeddingModel):
     def __init__(self, model_name="sentence-transformers/multi-qa-mpnet-base-cos-v1"):
-        self.model = SentenceTransformer(model_name)
+        # self.model = SentenceTransformer(model_name)
+        self.model = SentenceTransformer('/home/airhust/.cache/huggingface/hub/models--sentence-transformers--multi-qa-mpnet-base-cos-v1/snapshots/822dbc9732879fe45b5d79fdb372f2ccec4c76b5')
 
     def create_embedding(self, text):
         return self.model.encode(text)

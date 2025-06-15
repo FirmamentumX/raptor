@@ -11,6 +11,12 @@ from typing import List
 from raptor import RetrievalAugmentation, RetrievalAugmentationConfig, SBertEmbeddingModel
 from localllm import QwenSummarizationModel, QwenQAModel
 
+os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+
+custom_summarizer = QwenSummarizationModel()
+custom_qa = QwenQAModel()
+custom_embedding = SBertEmbeddingModel()
+
 def normalize_answer(s: str) -> str:
     """Lower text and remove punctuation, articles, and extra whitespace."""
     def remove_articles(text):
@@ -51,9 +57,6 @@ def extract_final_answer(s: str) -> str:
 
 def raptor_init() -> RetrievalAugmentation:
     """Initialize RAPTOR model."""
-    custom_summarizer = QwenSummarizationModel()
-    custom_qa = QwenQAModel()
-    custom_embedding = SBertEmbeddingModel()
     custom_config = RetrievalAugmentationConfig(
         summarization_model=custom_summarizer,
         qa_model=custom_qa,
@@ -155,7 +158,7 @@ def evaluate_dataset(file_path: str) -> None:
 
 if __name__ == "__main__":
     try:
-        interrupted = evaluate_dataset("partial_test_easy.jsonl")
+        interrupted = evaluate_dataset("test.easy.jsonl")
         exit_code = 1 if interrupted else 0
     except Exception as e:
         print(f"Unexpected error: {str(e)}")
