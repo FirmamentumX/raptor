@@ -38,7 +38,7 @@ dependencies:
       - accelerate==1.4.0
       - annotated-types==0.7.0
       - anyio==3.7.1
-      - bitsandbytes==0.45.5
+      - bitsandbytes==0.43.1
       - certifi==2025.1.31
       - charset-normalizer==3.4.1
       - click==8.1.8
@@ -46,7 +46,6 @@ dependencies:
       - einops==0.8.1
       - faiss-cpu==1.10.0
       - filelock==3.18.0
-      - flash-attn==2.7.4.post1
       - fsspec==2025.3.2
       - h11==0.14.0
       - httpcore==0.16.3
@@ -96,11 +95,11 @@ dependencies:
       - tenacity==8.2.3
       - threadpoolctl==3.6.0
       - tiktoken==0.5.1
-      - tokenizers==0.15.2
+      - tokenizers==0.19
       - torch==2.6.0
       - torchvision==0.21.0
       - tqdm==4.67.1
-      - transformers==4.38.1
+      - transformers==4.44.0
       - triton==3.2.0
       - typing-extensions==4.13.2
       - typing-inspection==0.4.0

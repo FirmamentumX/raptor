@@ -4,7 +4,7 @@ from raptor import BaseSummarizationModel, BaseEmbeddingModel, BaseQAModel
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
 class QwenSummarizationModel(BaseSummarizationModel):
-        def __init__(self, model_name="Qwen/Qwen1.5-7B-Chat", max_memory=None,quantization_config=None):
+        def __init__(self, model_name="/home/ling/.cache/huggingface/models--llama-3.1-8b-instruct", max_memory=None,quantization_config=None):
 
             default_quantization_config = BitsAndBytesConfig(
                 load_in_4bit=True,
@@ -22,13 +22,13 @@ class QwenSummarizationModel(BaseSummarizationModel):
 
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-                device_map="cuda",
-                quantization_config=quantization_config or default_quantization_config,
+                device_map="auto",
+                #quantization_config=quantization_config or default_quantization_config,
                 torch_dtype=torch.float16,  # 匹配量化配置
                 max_memory=max_memory, # or {0: "7GiB", "cpu": "10GiB"},
-                low_cpu_mem_usage=True,
+                #low_cpu_mem_usage=True,
                 trust_remote_code=True,
-                attn_implementation="flash_attention_2"
+                #attn_implementation="flash_attention_2"
             )
 
 
@@ -71,7 +71,7 @@ class QwenSummarizationModel(BaseSummarizationModel):
                 return e
             
 class QwenQAModel(BaseQAModel):
-        def __init__(self, model_name="Qwen/Qwen1.5-7B-Chat", max_memory=None,quantization_config=None):
+        def __init__(self, model_name="/home/ling/.cache/huggingface/models--llama-3.1-8b-instruct", max_memory=None,quantization_config=None):
 
             default_quantization_config = BitsAndBytesConfig(
                 load_in_4bit=True,
@@ -89,13 +89,13 @@ class QwenQAModel(BaseQAModel):
 
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-               device_map="cuda",
-                quantization_config=quantization_config or default_quantization_config,
+                device_map="auto",
+                #quantization_config=quantization_config or default_quantization_config,
                 max_memory=max_memory, # or {0: "7GiB", "cpu": "10GiB"},
                 torch_dtype=torch.float16,  # 匹配量化配置
-                low_cpu_mem_usage=True,
+                #low_cpu_mem_usage=True,
                 trust_remote_code=True,
-                attn_implementation="flash_attention_2"
+                #attn_implementation="flash_attention_2"
             )
         
         def generate(self, input_text, **kwargs):
@@ -120,7 +120,7 @@ class QwenQAModel(BaseQAModel):
                     {"role": "system", "content": "You are a helpful assistant."},
                     {
                         "role": "user",
-                        "content": f"using the folloing information {context}. Answer the following question in less than 5-7 words, if possible: {question}",
+                        "content": f"using the following information {context}. Answer the following question in less than 5-7 words, if possible: {question}",
                     },
                 ]
                 input_text = self.tokenizer.apply_chat_template(

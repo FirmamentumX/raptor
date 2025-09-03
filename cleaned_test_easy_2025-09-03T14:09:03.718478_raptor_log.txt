@@ -1,0 +1,76 @@
+2025-09-03 14:09:03,718 - INFO - Opened file: /home/ling/raptor/cleaned_test_easy.jsonl
+2025-09-03 14:09:03,718 - INFO - Successfully initialized TreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7fb30121ced0>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7fb17bc4e210>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-09-03 14:09:03,718 - INFO - Successfully initialized ClusterTreeBuilder with Config 
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7fb30121ced0>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7fb17bc4e210>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+2025-09-03 14:09:03,718 - INFO - Successfully initialized RetrievalAugmentation with Config 
+        RetrievalAugmentationConfig:
+            
+        TreeBuilderConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Max Tokens: 100
+            Num Layers: 5
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Summarization Length: 100
+            Summarization Model: <localllm.QwenSummarizationModel object at 0x7fb30121ced0>
+            Embedding Models: {'EMB': <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7fb17bc4e210>}
+            Cluster Embedding Model: EMB
+        
+        Reduction Dimension: 10
+        Clustering Algorithm: RAPTOR_Clustering
+        Clustering Parameters: {}
+        
+            
+            
+        TreeRetrieverConfig:
+            Tokenizer: <Encoding 'cl100k_base'>
+            Threshold: 0.5
+            Top K: 5
+            Selection Mode: top_k
+            Context Embedding Model: EMB
+            Embedding Model: <raptor.EmbeddingModels.SBertEmbeddingModel object at 0x7fb17bc4e210>
+            Num Layers: None
+            Start Layer: None
+        
+            
+            QA Model: <localllm.QwenQAModel object at 0x7fb300fe1790>
+            Tree Builder Type: cluster
+        
+2025-09-03 14:09:03,719 - INFO - Creating Leaf Nodes
+2025-09-03 14:09:04,383 - INFO - Created 20 Leaf Embeddings
+2025-09-03 14:09:04,383 - INFO - Building All Nodes
+2025-09-03 14:09:04,383 - INFO - Using Cluster TreeBuilder
+2025-09-03 14:09:04,383 - INFO - Constructing Layer 0
+2025-09-03 14:09:04,384 - INFO - [COMPLETED] Final results: Total=0, EM=0.00%, F1=0.00%

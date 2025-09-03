@@ -101,6 +101,7 @@ def evaluate_dataset(file_path: str) -> None:
 
     try:
         with open(file_path, "r", encoding="utf-8") as f:
+            logging.info(f"Opened file: {file_path}")
             for line in f:
                 try:
                     entry = json.loads(line.strip())
@@ -109,7 +110,7 @@ def evaluate_dataset(file_path: str) -> None:
                     continue
 
                 idx = entry.get("idx", "N/A")
-                question = entry.get("question", "") + " Answer in less than 5-7 words, if no answer, say 'N/A'."
+                question = entry.get("question", "") + ", if no answer, say 'N/A'."
                 context = entry.get("context", "")
                 targets = entry.get("targets", [])
 
@@ -158,7 +159,7 @@ def evaluate_dataset(file_path: str) -> None:
 
 if __name__ == "__main__":
     try:
-        interrupted = evaluate_dataset("test.easy.jsonl")
+        interrupted = evaluate_dataset("cleaned_test_easy.jsonl")
         exit_code = 1 if interrupted else 0
     except Exception as e:
         print(f"Unexpected error: {str(e)}")
