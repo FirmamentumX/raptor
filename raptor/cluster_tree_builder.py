@@ -89,25 +89,20 @@ class ClusterTreeBuilder(TreeBuilder):
             new_level_nodes = {}
 
             logging.info(f"Constructing Layer {layer}")
-
             node_list_current_layer = get_node_list(current_level_nodes)
-
             if len(node_list_current_layer) <= self.reduction_dimension + 1:
                 self.num_layers = layer
                 logging.info(
                     f"Stopping Layer construction: Cannot Create More Layers. Total Layers in tree: {layer}"
                 )
                 break
-
             clusters = self.clustering_algorithm.perform_clustering(
                 node_list_current_layer,
                 self.cluster_embedding_model,
                 reduction_dimension=self.reduction_dimension,
                 **self.clustering_params,
             )
-
             lock = Lock()
-
             summarization_length = self.summarization_length
             logging.info(f"Summarization Length: {summarization_length}")
 

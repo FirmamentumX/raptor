@@ -102,20 +102,24 @@ def evaluate_dataset(file_path: str) -> None:
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             logging.info(f"Opened file: {file_path}")
-            for line in f:
+            for line_num, line in enumerate(f, 1):
                 try:
+                    print(f"[DEBUG] line {line_num} length={len(line)} head={line[:80]!r}")
                     entry = json.loads(line.strip())
                 except json.JSONDecodeError as e:
                     logging.error(f"Error parsing line: {line[:50]}... | Error: {str(e)}")
+                    print(f"[DEBUG] Error processing line {line_num}: {e}")
                     continue
-
+                print(f"Entry: {entry}")
                 idx = entry.get("idx", "N/A")
                 question = entry.get("question", "") + ", if no answer, say 'N/A'."
                 context = entry.get("context", "")
                 targets = entry.get("targets", [])
 
                 # Get prediction
+                print('raptor is about to be called!!!')
                 prediction = call_raptor(question, context)
+                print(f"Prediction: {prediction}")
                 processed_targets = ["N/A" if t.strip() == "" else t for t in targets]
 
                 # Calculate scores

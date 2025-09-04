@@ -143,9 +143,19 @@ class RAPTOR_Clustering(ClusteringAlgorithm):
         embeddings = np.array([node.embeddings[embedding_model_name] for node in nodes])
 
         # Perform the clustering
-        clusters = perform_clustering(
+        try:
+            clusters = perform_clustering(
             embeddings, dim=reduction_dimension, threshold=threshold
         )
+        except Exception as e:
+            import traceback
+            print("[DEBUG] perform_clustering failed:", repr(e))
+            traceback.print_exc()
+            return []
+        
+        # clusters = perform_clustering(
+        #     embeddings, dim=reduction_dimension, threshold=threshold
+        # )
 
         # Initialize an empty list to store the clusters of nodes
         node_clusters = []
