@@ -112,7 +112,7 @@ def evaluate_dataset(file_path: str) -> None:
                     continue
                 print(f"Entry: {entry}")
                 idx = entry.get("idx", "N/A")
-                question = entry.get("question", "") + ", if no answer, say 'N/A'."
+                question = entry.get("question", "") + "If no answer, say 'N/A'."
                 context = entry.get("context", "")
                 targets = entry.get("targets", [])
 
@@ -163,7 +163,7 @@ def evaluate_dataset(file_path: str) -> None:
 
 if __name__ == "__main__":
     try:
-        interrupted = evaluate_dataset("cleaned_test_easy.jsonl")
+        interrupted = evaluate_dataset("cleaned_test_easy_v4.jsonl")
         exit_code = 1 if interrupted else 0
     except Exception as e:
         print(f"Unexpected error: {str(e)}")
