@@ -1,0 +1,5620 @@
+2025-09-15 20:32:33,793 - INFO - Opened file: /home/ling/temp_rag_eval/updated_file_with_original_context.jsonl
+2025-09-15 20:32:34,241 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned the Newton D. Baker House in Washington DC?If no answer, say 'N/A'.
+Prediction: Multiple individuals and families owned the Newton D. Baker House.
+Processed Targets: ['Yolande Bebeze Fox']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:34,581 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned the Newton D. Baker House in Washington DC in 1976?If no answer, say 'N/A'.
+Prediction: Yolande Bebeze Fox and later David W. Hudgens.
+Processed Targets: ['Yolande Bebeze Fox']
+EM: 0, F1: 0.5455
+=================
+
+2025-09-15 20:32:34,757 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned the Newton D. Baker House in Washington DC in Dec 1986?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Yolande Bebeze Fox']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:34,932 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned the Newton D. Baker House in Washington DC as of 2000?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Yolande Bebeze Fox']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:35,107 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned the Newton D. Baker House in Washington DC from 1978 to 1982?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Yolande Bebeze Fox']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:35,283 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned the Newton D. Baker House in Washington DC between 1980 and 1990?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Yolande Bebeze Fox']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:35,623 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom?If no answer, say 'N/A'.
+Prediction: British Railways and Southern Railway.
+Processed Targets: ['Great Northern Railway']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:32:35,937 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom in 1901?If no answer, say 'N/A'.
+Prediction: The Great Northern Railway.
+Processed Targets: ['Great Northern Railway']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:36,289 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom as of Oct 1905?If no answer, say 'N/A'.
+Prediction: The Great Northern Railway (GNR).
+Processed Targets: ['Great Northern Railway']
+EM: 0, F1: 0.8571
+=================
+
+2025-09-15 20:32:36,616 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom in 1907?If no answer, say 'N/A'.
+Prediction: Westinghouse Electric Corporation.
+Processed Targets: ['Great Northern Railway']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:37,031 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom?If no answer, say 'N/A'.
+Prediction: British Railways and Córas Iompair Éireann.
+Processed Targets: ['Westinghouse Electric Corporation']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:37,356 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom in 1908?If no answer, say 'N/A'.
+Prediction: Westinghouse Electric Corporation.
+Processed Targets: ['Westinghouse Electric Corporation']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:37,709 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom as of 1909?If no answer, say 'N/A'.
+Prediction: The Great Northern Railway (GNR).
+Processed Targets: ['Westinghouse Electric Corporation']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:38,011 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Oliver Bulleid was an employee for whom between May 10, 1909 and March 20, 1910?If no answer, say 'N/A'.
+Prediction: Board of Trade.
+Processed Targets: ['Westinghouse Electric Corporation']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:38,251 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chief executive officer of Open Knowledge Foundation?If no answer, say 'N/A'.
+Prediction: Catherine Stihler
+Processed Targets: ['Pavel Richter']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:38,491 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the chief executive officer of Open Knowledge Foundation before April 2017?If no answer, say 'N/A'.
+Prediction: Pavel Richter.
+Processed Targets: ['Pavel Richter']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:38,719 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the chief executive officer of Open Knowledge Foundation as of 2016?If no answer, say 'N/A'.
+Prediction: Pavel Richter
+Processed Targets: ['Pavel Richter']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:39,052 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated?If no answer, say 'N/A'.
+Prediction: University of North Carolina at Chapel Hill.
+Processed Targets: ['Orange High School']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:39,411 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated right before 2004?If no answer, say 'N/A'.
+Prediction: Orange High School in Hillsborough, North Carolina.
+Processed Targets: ['Orange High School']
+EM: 0, F1: 0.6000
+=================
+
+2025-09-15 20:32:39,693 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated as of May 2002?If no answer, say 'N/A'.
+Prediction: UNC-Chapel Hill
+Processed Targets: ['Orange High School']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:39,977 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated in between 2002 and 2003?If no answer, say 'N/A'.
+Prediction: UNC-Chapel Hill
+Processed Targets: ['Orange High School']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:40,311 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated?If no answer, say 'N/A'.
+Prediction: University of North Carolina at Chapel Hill.
+Processed Targets: ['University of North Carolina at Chapel Hill', 'UNC-Chapel Hill']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:40,645 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated in right before 2014?If no answer, say 'N/A'.
+Prediction: University of North Carolina at Chapel Hill.
+Processed Targets: ['University of North Carolina at Chapel Hill', 'UNC-Chapel Hill']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:40,978 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated in November 2012?If no answer, say 'N/A'.
+Prediction: University of North Carolina at Chapel Hill.
+Processed Targets: ['University of North Carolina at Chapel Hill', 'UNC-Chapel Hill']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:41,238 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where was Kizzmekia Corbett educated in from Nov 2012 to Jan 2013?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['University of North Carolina at Chapel Hill', 'UNC-Chapel Hill']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:41,440 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member of?If no answer, say 'N/A'.
+Prediction: SYRIZA.
+Processed Targets: ['NAP']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:41,616 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member of after 1989?If no answer, say 'N/A'.
+Prediction: NAP.
+Processed Targets: ['NAP']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:41,782 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member of as of 17 July, 2004?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['NAP']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:41,946 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member of as of 1992?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['NAP']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:42,148 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member of?If no answer, say 'N/A'.
+Prediction: SYRIZA.
+Processed Targets: ['SYRIZA']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:42,351 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member of around 2015?If no answer, say 'N/A'.
+Prediction: SYRIZA.
+Processed Targets: ['SYRIZA']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:42,552 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which party was Pavlos Polakis a member in 2010s?If no answer, say 'N/A'.
+Prediction: SYRIZA.
+Processed Targets: ['SYRIZA']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:42,766 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia?If no answer, say 'N/A'.
+Prediction: Klemzig.
+Processed Targets: ['Gaza']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:42,967 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia as of 1917?If no answer, say 'N/A'.
+Prediction: Gaza.
+Processed Targets: ['Gaza']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:43,156 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia in 1920s?If no answer, say 'N/A'.
+Prediction: Gaza
+Processed Targets: ['Gaza']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:43,345 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia on 12 December 1930?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Gaza']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:43,559 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia?If no answer, say 'N/A'.
+Prediction: Klemzig.
+Processed Targets: ['Klemzig']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:43,773 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia since 1935?If no answer, say 'N/A'.
+Prediction: Klemzig.
+Processed Targets: ['Klemzig']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:43,987 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the official name of Klemzig, South Australia after 1940?If no answer, say 'N/A'.
+Prediction: Klemzig.
+Processed Targets: ['Klemzig']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:44,274 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Fred Hoiberg was the coach of which team?If no answer, say 'N/A'.
+Prediction: Nebraska Cornhuskers.
+Processed Targets: ['Chicago Bulls', 'Bulls']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:44,521 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Fred Hoiberg was the coach of which team before December 3, 2018?If no answer, say 'N/A'.
+Prediction: Chicago Bulls.
+Processed Targets: ['Chicago Bulls', 'Bulls']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:44,769 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Fred Hoiberg was the coach of which team as of March 30, 2017?If no answer, say 'N/A'.
+Prediction: Chicago Bulls.
+Processed Targets: ['Chicago Bulls', 'Bulls']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:45,015 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Fred Hoiberg was the coach of which team between 2016 and 2017?If no answer, say 'N/A'.
+Prediction: Chicago Bulls.
+Processed Targets: ['Chicago Bulls', 'Bulls']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:45,263 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Fred Hoiberg was the coach of which team between 2016 and 2017?If no answer, say 'N/A'.
+Prediction: Chicago Bulls.
+Processed Targets: ['Chicago Bulls', 'Bulls']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:45,548 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which league did Albuquerque Dukes play for?If no answer, say 'N/A'.
+Prediction: Triple-A Pacific Coast League.
+Processed Targets: ['Pacific Coast League', 'Triple-A Pacific Coast League']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:45,834 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which league did Albuquerque Dukes play for since 1972?If no answer, say 'N/A'.
+Prediction: Triple-A Pacific Coast League.
+Processed Targets: ['Pacific Coast League', 'Triple-A Pacific Coast League']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:46,093 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which league did Albuquerque Dukes play for between Mar 1976 and Jun 1988?If no answer, say 'N/A'.
+Prediction: Pacific Coast League.
+Processed Targets: ['Pacific Coast League', 'Triple-A Pacific Coast League']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:46,391 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which league did Albuquerque Dukes play for in 1980s?If no answer, say 'N/A'.
+Prediction: Pacific Coast League (PCL).
+Processed Targets: ['Pacific Coast League', 'Triple-A Pacific Coast League']
+EM: 0, F1: 0.8571
+=================
+
+2025-09-15 20:32:46,676 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which league did Albuquerque Dukes play for as of 1975?If no answer, say 'N/A'.
+Prediction: Triple-A Pacific Coast League.
+Processed Targets: ['Pacific Coast League', 'Triple-A Pacific Coast League']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:46,984 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Henry Addington took which position?If no answer, say 'N/A'.
+Prediction: Lord President of the Council.
+Processed Targets: ['Prime Minister', 'Prime Minister of the United Kingdom', 'Prime Minister of Britain']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:32:47,253 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Henry Addington took which position between 1801 and 1804?If no answer, say 'N/A'.
+Prediction: Prime Minister.
+Processed Targets: ['Prime Minister', 'Prime Minister of the United Kingdom', 'Prime Minister of Britain']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:47,536 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Henry Addington took which position as of Mar 1803?If no answer, say 'N/A'.
+Prediction: Lord Privy Seal
+Processed Targets: ['Prime Minister', 'Prime Minister of the United Kingdom', 'Prime Minister of Britain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:47,806 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Henry Addington took between 8 June 1789 and 2 Feb 1803?If no answer, say 'N/A'.
+Prediction: Home Secretary.
+Processed Targets: ['Prime Minister', 'Prime Minister of the United Kingdom', 'Prime Minister of Britain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:48,064 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first position Henry Addington took from 1802 to 1811?If no answer, say 'N/A'.
+Prediction: Home Secretary
+Processed Targets: ['Prime Minister', 'Prime Minister of the United Kingdom', 'Prime Minister of Britain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:48,266 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who occupied Berga Naval Base?If no answer, say 'N/A'.
+Prediction: The Swedish Navy.
+Processed Targets: ['Berga Naval Training Schools']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:48,646 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who occupied Berga Naval Base since 1946?If no answer, say 'N/A'.
+Prediction: The Swedish Navy Non-Commissioned Officers School (MUOS) since 1946.
+Processed Targets: ['Berga Naval Training Schools']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:48,823 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who occupied Berga Naval Base between Feb 1954 and Sep 1957?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Berga Naval Training Schools']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:49,064 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who occupied Berga Naval Base as of 1950?If no answer, say 'N/A'.
+Prediction: The Swedish Navy and its personnel.
+Processed Targets: ['Berga Naval Training Schools']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:49,241 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who occupied Berga Naval Base in 1949?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Berga Naval Training Schools']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:49,498 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Nicholas Winterton took which position?If no answer, say 'N/A'.
+Prediction: Member of Parliament (MP).
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 0, F1: 0.8571
+=================
+
+2025-09-15 20:32:49,831 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Nicholas Winterton took which position from 1971 to 2010?If no answer, say 'N/A'.
+Prediction: Member of Parliament (MP) for Macclesfield.
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:50,152 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Nicholas Winterton took which position between Jul 1987 and Jan 1989?If no answer, say 'N/A'.
+Prediction: Member of the parliamentary advisory board of the Western Goals Institute
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:32:50,371 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the position of Nicholas Winterton as of 1998?If no answer, say 'N/A'.
+Prediction: Member of Parliament
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:50,589 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the position of Nicholas Winterton as of 18 February, 2008?If no answer, say 'N/A'.
+Prediction: Member of Parliament
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:50,911 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the position of Nicholas Winterton in 2002?If no answer, say 'N/A'.
+Prediction: Knighted by Elizabeth II in June 2002.
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:51,206 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the position of Nicholas Winterton in 25 May 2009?If no answer, say 'N/A'.
+Prediction: Standing down as MPs at the next election.
+Processed Targets: ['Member of Parliament', 'Member of Parliament for Macclesfield', 'Member of Parliament (MP) for Macclesfield']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:51,446 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Policy Planning Staff (France) was managed or directed by whom?If no answer, say 'N/A'.
+Prediction: Manuel Lafont Rapnouil.
+Processed Targets: ['Thierry de Montbrial']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:51,685 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Policy Planning Staff (France) was managed or directed by whom between 1974 and 1978?If no answer, say 'N/A'.
+Prediction: Thierry de Montbrial.
+Processed Targets: ['Thierry de Montbrial']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:51,925 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Policy Planning Staff (France) was managed or directed by whom as of July 1976?If no answer, say 'N/A'.
+Prediction: Thierry de Montbrial.
+Processed Targets: ['Thierry de Montbrial']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:52,152 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Policy Planning Staff (France) was managed or directed by whom before Aug 1975?If no answer, say 'N/A'.
+Prediction: Thierry de Montbrial
+Processed Targets: ['Thierry de Montbrial']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:52,390 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first director of Policy Planning Staff (France) from 1970 to 1989?If no answer, say 'N/A'.
+Prediction: Thierry de Montbrial.
+Processed Targets: ['Thierry de Montbrial']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:52,565 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: James Robert Dickson took which position?If no answer, say 'N/A'.
+Prediction: Minister for Defence.
+Processed Targets: ['Treasurer', 'Treasurer of Queensland']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:52,764 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: James Robert Dickson took which position in 1876?If no answer, say 'N/A'.
+Prediction: Secretary for Public Works and Mines.
+Processed Targets: ['Treasurer', 'Treasurer of Queensland']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:52,990 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: James Robert Dickson took which position as of 1878?If no answer, say 'N/A'.
+Prediction: Treasurer (1876-79).
+Processed Targets: ['Treasurer', 'Treasurer of Queensland']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:32:53,151 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last position of James Robert Dickson between 1873 and 1877?If no answer, say 'N/A'.
+Prediction: Treasurer.
+Processed Targets: ['Treasurer', 'Treasurer of Queensland']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:53,313 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: James Robert Dickson took which position as of 10 January, 1879?If no answer, say 'N/A'.
+Prediction: Treasurer.
+Processed Targets: ['Treasurer', 'Treasurer of Queensland']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:53,638 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Michael Cullen (politician) take?If no answer, say 'N/A'.
+Prediction: Deputy Prime Minister of New Zealand.
+Processed Targets: ['Minister of Finance']
+EM: 0, F1: 0.4444
+=================
+
+2025-09-15 20:32:53,963 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Michael Cullen (politician) take between 1999 and 2008?If no answer, say 'N/A'.
+Prediction: Deputy Prime Minister of New Zealand.
+Processed Targets: ['Minister of Finance']
+EM: 0, F1: 0.4444
+=================
+
+2025-09-15 20:32:54,276 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Michael Cullen (politician) take as of 2004?If no answer, say 'N/A'.
+Prediction: Token monarchist in the Cabinet.
+Processed Targets: ['Minister of Finance']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:54,564 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Michael Cullen (politician) take between 2001 and 2005?If no answer, say 'N/A'.
+Prediction: Deputy Prime Minister.
+Processed Targets: ['Minister of Finance']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:32:54,889 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Michael Cullen (politician) take as of March 2006?If no answer, say 'N/A'.
+Prediction: Minister of Finance and Attorney-General.
+Processed Targets: ['Minister of Finance']
+EM: 0, F1: 0.7500
+=================
+
+2025-09-15 20:32:55,464 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Peter Sutherland take?If no answer, say 'N/A'.
+Prediction: Strong advocate for unrestricted immigration.
+Processed Targets: ['European Commissioner', 'EU Commissioner', 'European Commissioner for Competition']
+EM: 0, F1: 0.2222
+=================
+
+2025-09-15 20:32:56,025 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Peter Sutherland take from 1985 to 1989?If no answer, say 'N/A'.
+Prediction: European Commissioner for Competition.
+Processed Targets: ['European Commissioner', 'EU Commissioner', 'European Commissioner for Competition']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:56,651 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Peter Sutherland take between 1987 and 1988?If no answer, say 'N/A'.
+Prediction: European Person of the Year Award (1988).
+Processed Targets: ['European Commissioner', 'EU Commissioner', 'European Commissioner for Competition']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:32:57,213 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Peter Sutherland take in April 1986?If no answer, say 'N/A'.
+Prediction: Attorney General of Ireland
+Processed Targets: ['European Commissioner', 'EU Commissioner', 'European Commissioner for Competition']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:57,838 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Peter Sutherland take as of 1988?If no answer, say 'N/A'.
+Prediction: European Person of the Year Award (1988)
+Processed Targets: ['European Commissioner', 'EU Commissioner', 'European Commissioner for Competition']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:32:58,489 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Peter Sutherland took between 1981 and 1987?If no answer, say 'N/A'.
+Prediction: Attorney General of Ireland (1981-1984).
+Processed Targets: ['European Commissioner', 'EU Commissioner', 'European Commissioner for Competition']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:58,691 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Agustín Castillo belong to?If no answer, say 'N/A'.
+Prediction: Alianza Lima.
+Processed Targets: ['Atlético Marte']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:58,956 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Agustín Castillo belong to from 1990 to 1993?If no answer, say 'N/A'.
+Prediction: Atlético Marte and Herediano.
+Processed Targets: ['Atlético Marte']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:32:59,170 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Agustín Castillo belong to as of Jun 1992?If no answer, say 'N/A'.
+Prediction: Atlético Marte.
+Processed Targets: ['Atlético Marte']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:32:59,397 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team did the player Agustín Castillo belong to between 1989 and 1992?If no answer, say 'N/A'.
+Prediction: Deportivo Cuenca
+Processed Targets: ['Atlético Marte']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:59,573 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Agustín Castillo belong to in December 17, 1991?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Atlético Marte']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:32:59,792 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What operated Rheidol (locomotive)?If no answer, say 'N/A'.
+Prediction: Vale of Rheidol Railway.
+Processed Targets: ['Vale of Rheidol Railway']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:00,061 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What operated Rheidol (locomotive) from 1900 to 1924?If no answer, say 'N/A'.
+Prediction: The Vale of Rheidol Railway operated Rheidol.
+Processed Targets: ['Vale of Rheidol Railway']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:33:00,280 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What operated Rheidol (locomotive) as of 1911?If no answer, say 'N/A'.
+Prediction: Vale of Rheidol Railway.
+Processed Targets: ['Vale of Rheidol Railway']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:00,498 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What operated Rheidol (locomotive) between Mar 1905 and Mar 1913?If no answer, say 'N/A'.
+Prediction: Vale of Rheidol Railway.
+Processed Targets: ['Vale of Rheidol Railway']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:00,641 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What operated Rheidol (locomotive) in February  1917?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Vale of Rheidol Railway']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:00,938 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Koki Mizuno play for?If no answer, say 'N/A'.
+Prediction: JEF United Chiba, Celtic, Kashiwa Reysol.
+Processed Targets: ['JEF United Chiba']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:33:01,119 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Koki Mizuno play for from 2004 to 2007?If no answer, say 'N/A'.
+Prediction: JEF United Chiba.
+Processed Targets: ['JEF United Chiba']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:01,299 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Koki Mizuno play for as of 2005?If no answer, say 'N/A'.
+Prediction: JEF United Chiba.
+Processed Targets: ['JEF United Chiba']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:01,454 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Koki Mizuno first play for between April 3 2006 and July 18 2008?If no answer, say 'N/A'.
+Prediction: Celtic.
+Processed Targets: ['JEF United Chiba']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:02,252 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the rector of Central European University?If no answer, say 'N/A'.
+Prediction: John Shattuck and Michael Ignatieff
+Processed Targets: ['Yehuda Elkana', 'Elkana']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:03,010 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the rector of Central European University from 1999 to 2009?If no answer, say 'N/A'.
+Prediction: Yehuda Elkana.
+Processed Targets: ['Yehuda Elkana', 'Elkana']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:03,770 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first rector of Central European University between 19 July 2001 and 5 May 2016?If no answer, say 'N/A'.
+Prediction: Yehuda Elkana.
+Processed Targets: ['Yehuda Elkana', 'Elkana']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:04,490 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the rector of Central European University as of 14 October 2007?If no answer, say 'N/A'.
+Prediction: Leon Botstein
+Processed Targets: ['Yehuda Elkana', 'Elkana']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:05,237 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first rector of Central European University from 2004 to 2017?If no answer, say 'N/A'.
+Prediction: Yehuda Elkana
+Processed Targets: ['Yehuda Elkana', 'Elkana']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:06,466 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Gerhard Schröder?If no answer, say 'N/A'.
+Prediction: Multiple spouses: Eva Schubach, Anne Taschenmacher, Hiltrud Hampel,
+Processed Targets: ['Doris Köpf', 'Doris Schröder-Köpf']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:07,511 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Gerhard Schröder from 1997 to 2018?If no answer, say 'N/A'.
+Prediction: Doris Köpf.
+Processed Targets: ['Doris Köpf', 'Doris Schröder-Köpf']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:08,543 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Gerhard Schröder between 22 November 2004 and November 2017?If no answer, say 'N/A'.
+Prediction: Doris Köpf
+Processed Targets: ['Doris Köpf', 'Doris Schröder-Köpf']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:09,654 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Gerhard Schröder between 2007 and 2016?If no answer, say 'N/A'.
+Prediction: Hiltrud Hampel (Hillu).
+Processed Targets: ['Doris Köpf', 'Doris Schröder-Köpf']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:10,701 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first spouse of Gerhard Schröder between 2000 and 2018?If no answer, say 'N/A'.
+Prediction: Eva Schubach
+Processed Targets: ['Doris Köpf', 'Doris Schröder-Köpf']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:10,950 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the operator of Pennsylvania Railroad class E44?If no answer, say 'N/A'.
+Prediction: General Electric.
+Processed Targets: ['Penn Central']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:11,200 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the operator of Pennsylvania Railroad class E44 from 1968 to 1976?If no answer, say 'N/A'.
+Prediction: Penn Central.
+Processed Targets: ['Penn Central']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:11,450 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the operator of Pennsylvania Railroad class E44 between Dec 1970 and Aug 1973?If no answer, say 'N/A'.
+Prediction: Penn Central.
+Processed Targets: ['Penn Central']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:11,700 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the operator of Pennsylvania Railroad class E44 as of 1974?If no answer, say 'N/A'.
+Prediction: Penn Central.
+Processed Targets: ['Penn Central']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:11,949 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the operator of Pennsylvania Railroad class E44 in June 1971?If no answer, say 'N/A'.
+Prediction: Penn Central.
+Processed Targets: ['Penn Central']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:12,715 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the submarine Erich Topp commands?If no answer, say 'N/A'.
+Prediction: U-552
+Processed Targets: ['U-57', '1st U-boat Flotilla']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:13,557 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the U-boat unit Erich Topp commands in June 1940?If no answer, say 'N/A'.
+Prediction: 1st U-boat Flotilla.
+Processed Targets: ['U-57', '1st U-boat Flotilla']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:14,525 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first U-boat unit Erich Topp commands as of August 1944?If no answer, say 'N/A'.
+Prediction: The first U-boat unit Erich Topp commands as of August 1944 is the department
+Processed Targets: ['U-57', '1st U-boat Flotilla']
+EM: 0, F1: 0.1333
+=================
+
+2025-09-15 20:33:15,290 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first U-boat unit Erich Topp commands between 5 October 1937 and December 1941?If no answer, say 'N/A'.
+Prediction: U-46
+Processed Targets: ['U-57', '1st U-boat Flotilla']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:16,069 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first U-boat unit Erich Topp commands by 17 August 1942?If no answer, say 'N/A'.
+Prediction: U-552.
+Processed Targets: ['U-57', '1st U-boat Flotilla']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:16,385 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of 194th Fighter Squadron?If no answer, say 'N/A'.
+Prediction: 194th Fighter Squadron.
+Processed Targets: ['194th Fighter-Interceptor Wing']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:33:16,715 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of 194th Fighter Squadron between 7 July 1955 and 16 March 1992?If no answer, say 'N/A'.
+Prediction: 194th Fighter-Interceptor Wing
+Processed Targets: ['194th Fighter-Interceptor Wing']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:17,044 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of 194th Fighter Squadron as of 1 October 1978?If no answer, say 'N/A'.
+Prediction: 144th Fighter-Interceptor Wing
+Processed Targets: ['194th Fighter-Interceptor Wing']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:33:17,399 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of 194th Fighter Squadron on 1 January 1984?If no answer, say 'N/A'.
+Prediction: 144th Fighter-Bomber Wing.
+Processed Targets: ['194th Fighter-Interceptor Wing']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:33:17,766 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of 194th Fighter Squadron until 31 March 1958?If no answer, say 'N/A'.
+Prediction: F-86A Sabre Day Interceptor
+Processed Targets: ['194th Fighter-Interceptor Wing']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:18,427 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of Tinkoff (cycling team)?If no answer, say 'N/A'.
+Prediction: Tinkoff-Saxo.
+Processed Targets: ['Team CSC', 'CSC']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:19,027 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Tinkoff (cycling team) in 2003?If no answer, say 'N/A'.
+Prediction: Team CSC
+Processed Targets: ['Team CSC', 'CSC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:19,628 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Tinkoff (cycling team) on Mid-June 2005?If no answer, say 'N/A'.
+Prediction: CSC
+Processed Targets: ['Team CSC', 'CSC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:20,278 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the last official name of Tinkoff (cycling team) between 1 July 2001 and 2005?If no answer, say 'N/A'.
+Prediction: CSC-Tiscali.
+Processed Targets: ['Team CSC', 'CSC']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:20,890 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the first official name of Tinkoff (cycling team) from 2005 to August 2010?If no answer, say 'N/A'.
+Prediction: Team CSC.
+Processed Targets: ['Team CSC', 'CSC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:21,578 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Province of Brandenburg belong to?If no answer, say 'N/A'.
+Prediction: Prussia (later Germany).
+Processed Targets: ['Kingdom of Prussia', 'Prussia', 'Free State of Prussia']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:33:22,232 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which country did Province of Brandenburg belong to from 1815 to 1947?If no answer, say 'N/A'.
+Prediction: Prussia.
+Processed Targets: ['Kingdom of Prussia', 'Prussia', 'Free State of Prussia']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:22,914 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country was the first to include the Province of Brandenburg between 1912 and 1990?If no answer, say 'N/A'.
+Prediction: Weimar Republic Germany.
+Processed Targets: ['Kingdom of Prussia', 'Prussia', 'Free State of Prussia']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:23,556 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Province of Brandenburg belong to in 1871?If no answer, say 'N/A'.
+Prediction: Germany.
+Processed Targets: ['Kingdom of Prussia', 'Prussia', 'Free State of Prussia']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:24,200 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Province of Brandenburg belong to as of 10 Oct 1931?If no answer, say 'N/A'.
+Prediction: Germany.
+Processed Targets: ['Kingdom of Prussia', 'Prussia', 'Free State of Prussia']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:24,856 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which country did Province of Brandenburg last belong to from 1415 to 1903?If no answer, say 'N/A'.
+Prediction: Prussia.
+Processed Targets: ['Kingdom of Prussia', 'Prussia', 'Free State of Prussia']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:25,185 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the director or manager of National Library of Serbia?If no answer, say 'N/A'.
+Prediction: Laslo Blašković.
+Processed Targets: ['Filip Nikolić']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:25,487 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the director or manager of National Library of Serbia from 1853 to 1856?If no answer, say 'N/A'.
+Prediction: Filip Nikolić.
+Processed Targets: ['Filip Nikolić']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:25,790 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the director or manager of National Library of Serbia as of 1854?If no answer, say 'N/A'.
+Prediction: Filip Nikolić.
+Processed Targets: ['Filip Nikolić']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:26,119 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first director or manager of National Library of Serbia before Feb 1880?If no answer, say 'N/A'.
+Prediction: Nićifor Dučić.
+Processed Targets: ['Filip Nikolić']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:26,473 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first director or manager of National Library of Serbia by 1903?If no answer, say 'N/A'.
+Prediction: Ljubomir Jovanović.
+Processed Targets: ['Filip Nikolić']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:26,725 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the director or manager of National Library of Serbia between 1832 and 1983?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Filip Nikolić']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:27,229 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Lai Ching-te take?If no answer, say 'N/A'.
+Prediction: Vice President of the Republic of China.
+Processed Targets: ['Mayor of Tainan']
+EM: 0, F1: 0.2222
+=================
+
+2025-09-15 20:33:27,693 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Lai Ching-te take between 2010 and 2017?If no answer, say 'N/A'.
+Prediction: Mayor of Tainan.
+Processed Targets: ['Mayor of Tainan']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:28,157 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Lai Ching-te take between Jul 2013 and Sep 2015?If no answer, say 'N/A'.
+Prediction: Mayor of Tainan.
+Processed Targets: ['Mayor of Tainan']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:28,622 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Lai Ching-te take between 2014 and 2016?If no answer, say 'N/A'.
+Prediction: Mayor of Tainan.
+Processed Targets: ['Mayor of Tainan']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:29,088 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Lai Ching-te take in 2014?If no answer, say 'N/A'.
+Prediction: Mayor of Tainan.
+Processed Targets: ['Mayor of Tainan']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:29,578 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Lai Ching-te take as of 11 January 2016?If no answer, say 'N/A'.
+Prediction: Premier of the Republic of China.
+Processed Targets: ['Mayor of Tainan']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:33:30,043 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first position Lai Ching-te takes from 20 May 2012 to 25 December 2020?If no answer, say 'N/A'.
+Prediction: Mayor of Tainan.
+Processed Targets: ['Mayor of Tainan']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:30,353 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Second VA-75 (U.S. Navy)?If no answer, say 'N/A'.
+Prediction: Attack Squadron VA-75.
+Processed Targets: ['Attack Squadron VA-75']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:30,663 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the last official name of Second VA-75 (U.S. Navy) between 15 February 1950 and February 28, 1997?If no answer, say 'N/A'.
+Prediction: Attack Squadron VA-75.
+Processed Targets: ['Attack Squadron VA-75']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:30,935 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of Second VA-75 (U.S. Navy) on 22 October 1980?If no answer, say 'N/A'.
+Prediction: VA-75
+Processed Targets: ['Attack Squadron VA-75']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:33:31,246 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Second VA-75 (U.S. Navy) between 6 August 1972 and 8 January 1980?If no answer, say 'N/A'.
+Prediction: Attack Squadron VA-75.
+Processed Targets: ['Attack Squadron VA-75']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:31,505 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first official name of Second VA-75 (U.S. Navy) from 4 December 1983 to 9 December 2019?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Attack Squadron VA-75']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:31,817 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Second VA-75 (U.S. Navy) as of 18 July 1965?If no answer, say 'N/A'.
+Prediction: Attack Squadron VA-75.
+Processed Targets: ['Attack Squadron VA-75']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:32,892 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Uhuru Kenyatta took which position?If no answer, say 'N/A'.
+Prediction: President of the Republic of Kenya.
+Processed Targets: ['Minister for Finance']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:33,942 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Uhuru Kenyatta took which position since 2009?If no answer, say 'N/A'.
+Prediction: Minister of Finance.
+Processed Targets: ['Minister for Finance']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:33:35,044 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Uhuru Kenyatta took between 8 January 2008 and 2011?If no answer, say 'N/A'.
+Prediction: Deputy Prime Minister and Minister of Trade.
+Processed Targets: ['Minister for Finance']
+EM: 0, F1: 0.2000
+=================
+
+2025-09-15 20:33:36,146 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Uhuru Kenyatta took which position as of 13 April 2010?If no answer, say 'N/A'.
+Prediction: Deputy Prime Minister and Minister of Trade.
+Processed Targets: ['Minister for Finance']
+EM: 0, F1: 0.2000
+=================
+
+2025-09-15 20:33:37,196 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Uhuru Kenyatta took which position in 2011?If no answer, say 'N/A'.
+Prediction: Minister of Finance.
+Processed Targets: ['Minister for Finance']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:33:37,474 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: O'Brian Woodbine played for which team?If no answer, say 'N/A'.
+Prediction: Reno, Charleston Battery, and HJK Helsinki among others.
+Processed Targets: ['Charleston Battery']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:33:37,630 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: O'Brian Woodbine played for which team from 2015 to 2019?If no answer, say 'N/A'.
+Prediction: Charleston Battery
+Processed Targets: ['Charleston Battery']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:37,811 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team O'Brian Woodbine played for between February 2011 and December 2017?If no answer, say 'N/A'.
+Prediction: Reno F.C.
+Processed Targets: ['Charleston Battery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:37,993 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team O'Brian Woodbine played for between 16 September 2014 and 9 October 2016?If no answer, say 'N/A'.
+Prediction: Ottawa Fury.
+Processed Targets: ['Charleston Battery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:38,162 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team O'Brian Woodbine played for between September 2013 and April 2018?If no answer, say 'N/A'.
+Prediction: New England Revolution.
+Processed Targets: ['Charleston Battery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:38,609 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the officer rank of William D. Leahy?If no answer, say 'N/A'.
+Prediction: Fleet Admiral
+Processed Targets: ['Fleet Admiral', 'five-star rank']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:39,057 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the officer rank of William D. Leahy on 15 December 1944?If no answer, say 'N/A'.
+Prediction: Fleet Admiral
+Processed Targets: ['Fleet Admiral', 'five-star rank']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:39,518 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the latest officer rank of William D. Leahy between 1924 and 1945?If no answer, say 'N/A'.
+Prediction: Fleet Admiral.
+Processed Targets: ['Fleet Admiral', 'five-star rank']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:39,967 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the last officer rank of William D. Leahy between 1 July 1902 and 24 January 1946?If no answer, say 'N/A'.
+Prediction: Fleet Admiral
+Processed Targets: ['Fleet Admiral', 'five-star rank']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:40,415 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the last officer rank of William D. Leahy from 31 December 1903?If no answer, say 'N/A'.
+Prediction: Fleet Admiral
+Processed Targets: ['Fleet Admiral', 'five-star rank']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:40,863 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the last officer rank of William D. Leahy from 15 September 1909?If no answer, say 'N/A'.
+Prediction: Fleet Admiral
+Processed Targets: ['Fleet Admiral', 'five-star rank']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:41,045 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: George Baden-Powell took which position?If no answer, say 'N/A'.
+Prediction: Member of Parliament (MP).
+Processed Targets: ['Member of Parliament ( M.P. ) ( Conservative )', 'Member of Parliament', 'M.P.', 'Conservative MP']
+EM: 0, F1: 0.8889
+=================
+
+2025-09-15 20:33:41,291 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: George Baden-Powell took which position between 1885 and 1898?If no answer, say 'N/A'.
+Prediction: Member of Parliament (MP) for Liverpool Kirkdale.
+Processed Targets: ['Member of Parliament ( M.P. ) ( Conservative )', 'Member of Parliament', 'M.P.', 'Conservative MP']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:33:41,561 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: George Baden-Powell latest took which position between 1876 and 1888?If no answer, say 'N/A'.
+Prediction: Knight Commander, Order of St. Michael and St. George.
+Processed Targets: ['Member of Parliament ( M.P. ) ( Conservative )', 'Member of Parliament', 'M.P.', 'Conservative MP']
+EM: 0, F1: 0.1667
+=================
+
+2025-09-15 20:33:41,742 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: George Baden-Powell took which position as of 1890?If no answer, say 'N/A'.
+Prediction: Member of Parliament (MP).
+Processed Targets: ['Member of Parliament ( M.P. ) ( Conservative )', 'Member of Parliament', 'M.P.', 'Conservative MP']
+EM: 0, F1: 0.8889
+=================
+
+2025-09-15 20:33:41,936 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: George Baden-Powell took which position in 1895?If no answer, say 'N/A'.
+Prediction: Member of Parliament (M.P.).
+Processed Targets: ['Member of Parliament ( M.P. ) ( Conservative )', 'Member of Parliament', 'M.P.', 'Conservative MP']
+EM: 0, F1: 0.8889
+=================
+
+2025-09-15 20:33:42,143 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position George Baden-Powell took from 1884 to 1896?If no answer, say 'N/A'.
+Prediction: Conservative MP for Liverpool Kirkdale.
+Processed Targets: ['Member of Parliament ( M.P. ) ( Conservative )', 'Member of Parliament', 'M.P.', 'Conservative MP']
+EM: 0, F1: 0.5714
+=================
+
+2025-09-15 20:33:42,655 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Michael Manley took which position?If no answer, say 'N/A'.
+Prediction: Prime Minister of Jamaica.
+Processed Targets: ['Prime Minister of Jamaica', 'Prime Minister']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:43,143 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Michael Manley took which position from 2 March 1972 to 1 November 1980 and from 10 February 1989 to 30 March 1992?If no answer, say 'N/A'.
+Prediction: Prime Minister.
+Processed Targets: ['Prime Minister of Jamaica', 'Prime Minister']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:43,631 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Michael Manley took which position from 1974 to 1978?If no answer, say 'N/A'.
+Prediction: Prime Minister.
+Processed Targets: ['Prime Minister of Jamaica', 'Prime Minister']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:44,144 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Michael Manley took which position as of 1975?If no answer, say 'N/A'.
+Prediction: Prime Minister of Jamaica.
+Processed Targets: ['Prime Minister of Jamaica', 'Prime Minister']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:44,643 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Michael Manley took between 1981 and 1990?If no answer, say 'N/A'.
+Prediction: PNP leader.
+Processed Targets: ['Prime Minister of Jamaica', 'Prime Minister']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:45,118 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Michael Manley first took which position from 1978 to 1997?If no answer, say 'N/A'.
+Prediction: Prime Minister
+Processed Targets: ['Prime Minister of Jamaica', 'Prime Minister']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:45,373 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Mark Bridge play for?If no answer, say 'N/A'.
+Prediction: Multiple teams, including Mounties Wanderers.
+Processed Targets: ['Sydney FC']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:45,564 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Mark Bridge play for on 3 March 2008?If no answer, say 'N/A'.
+Prediction: Sydney FC.
+Processed Targets: ['Sydney FC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:45,756 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team Mark Bridge played for from 2005 to 2011?If no answer, say 'N/A'.
+Prediction: Newcastle Jets.
+Processed Targets: ['Sydney FC']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:45,960 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first team Mark Bridge played for between 2010 and 2016?If no answer, say 'N/A'.
+Prediction: Western Sydney Wanderers.
+Processed Targets: ['Sydney FC']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:33:46,151 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first team Mark Bridge played for between 2010 and 2019?If no answer, say 'N/A'.
+Prediction: Newcastle Jets.
+Processed Targets: ['Sydney FC']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:46,400 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Bertrand Delanoë took which position?If no answer, say 'N/A'.
+Prediction: Mayor of Paris.
+Processed Targets: ['National Assembly']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:46,677 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Bertrand Delanoë took which position from 21 June 1981 to 1 April 1986?If no answer, say 'N/A'.
+Prediction: Member of the National Assembly.
+Processed Targets: ['National Assembly']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:33:46,952 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Bertrand Delanoë took from 1977 to 1983?If no answer, say 'N/A'.
+Prediction: Councillor of Paris.
+Processed Targets: ['National Assembly']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:47,215 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Bertrand Delanoë first took which position between 17 August 1984 and 18 March 2001?If no answer, say 'N/A'.
+Prediction: Member of the Senate.
+Processed Targets: ['National Assembly']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:47,478 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Bertrand Delanoë first took which position between 21 March 1985 and 24 September 1995?If no answer, say 'N/A'.
+Prediction: Member of the Senate.
+Processed Targets: ['National Assembly']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:47,671 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: James Jones (bishop) took which position?If no answer, say 'N/A'.
+Prediction: Bishop of Liverpool.
+Processed Targets: ['Bishop of Liverpool']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:47,863 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: James Jones (bishop) took which position from 1998 to 2013?If no answer, say 'N/A'.
+Prediction: Bishop of Liverpool.
+Processed Targets: ['Bishop of Liverpool']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:48,094 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position James Jones (bishop) took from 1994 to 2010?If no answer, say 'N/A'.
+Prediction: Suffragan Bishop of Hull.
+Processed Targets: ['Bishop of Liverpool']
+EM: 0, F1: 0.5714
+=================
+
+2025-09-15 20:33:48,325 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position James Jones (bishop) took between December 2009 and November 2011?If no answer, say 'N/A'.
+Prediction: Chair of the Hillsborough Disaster panel.
+Processed Targets: ['Bishop of Liverpool']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:33:48,606 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position James Jones (bishop) took as of Sep 2012?If no answer, say 'N/A'.
+Prediction: Vicar of Emmanuel Church, South Croydon.
+Processed Targets: ['Bishop of Liverpool']
+EM: 0, F1: 0.2222
+=================
+
+2025-09-15 20:33:48,834 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Vasili Merkuryev was an employee for whom?If no answer, say 'N/A'.
+Prediction: The Alexandrinsky Theatre.
+Processed Targets: ['Alexandrinsky Theatre']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:49,062 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Vasili Merkuryev was an employee for whom in 1937?If no answer, say 'N/A'.
+Prediction: The Alexandrinsky Theatre.
+Processed Targets: ['Alexandrinsky Theatre']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:49,330 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Vasili Merkuryev was an employee for whom as of 1954?If no answer, say 'N/A'.
+Prediction: Leningrad (Alexandrinsky Theatre)
+Processed Targets: ['Alexandrinsky Theatre']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:33:49,545 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Vasili Merkuryev was an employee for whom between 1945 and 1960?If no answer, say 'N/A'.
+Prediction: Alexandrinsky Theatre.
+Processed Targets: ['Alexandrinsky Theatre']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:49,774 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last employer of Vasili Merkuryev between 1921 and 1962?If no answer, say 'N/A'.
+Prediction: The Alexandrinsky Theatre.
+Processed Targets: ['Alexandrinsky Theatre']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:50,122 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Jakub Kumoch work for?If no answer, say 'N/A'.
+Prediction: Centre for Eastern Studies, Polish Press Agency, Przekrój weekly, Dziennik Pols
+Processed Targets: ['Dziennik Polska-Europa-Świat']
+EM: 0, F1: 0.1538
+=================
+
+2025-09-15 20:33:50,431 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Jakub Kumoch work for between 2006 and 2009?If no answer, say 'N/A'.
+Prediction: Dziennik Polska-Europa-Świat daily.
+Processed Targets: ['Dziennik Polska-Europa-Świat', 'Dziennik Polska-Europa-Świat daily']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:50,600 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Jakub Kumoch first work for from 2007 to 2020?If no answer, say 'N/A'.
+Prediction: Centre for Eastern Studies.
+Processed Targets: ['Dziennik Polska-Europa-Świat', 'Dziennik Polska-Europa-Świat daily']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:50,756 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Jakub Kumoch first work for between 2008 and 2017?If no answer, say 'N/A'.
+Prediction: Centre for Eastern Studies
+Processed Targets: ['Dziennik Polska-Europa-Świat', 'Dziennik Polska-Europa-Świat daily']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:51,103 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Jakub Kumoch last work for between 2005 and 2007?If no answer, say 'N/A'.
+Prediction: Przekrój weekly (2005-2006) and Dziennik Polska-E
+Processed Targets: ['Dziennik Polska-Europa-Świat', 'Dziennik Polska-Europa-Świat daily']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:33:51,351 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Princess Anastasia of Greece and Denmark?If no answer, say 'N/A'.
+Prediction: Prince Christopher of Greece and Denmark.
+Processed Targets: ['George Ely Worthington']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:51,598 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first spouse of Princess Anastasia of Greece and Denmark on in 1894?If no answer, say 'N/A'.
+Prediction: George Ely Worthington.
+Processed Targets: ['George Ely Worthington']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:51,845 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first spouse of Princess Anastasia of Greece and Denmark as of 1898?If no answer, say 'N/A'.
+Prediction: George Ely Worthington.
+Processed Targets: ['George Ely Worthington']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:52,094 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first spouse of Princess Anastasia of Greece and Denmark between 8 July 1896 and 3 August 1900?If no answer, say 'N/A'.
+Prediction: George Ely Worthington.
+Processed Targets: ['George Ely Worthington']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:52,342 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first spouse of Princess Anastasia of Greece and Denmark between 11 December 1874 and 7 July 1897?If no answer, say 'N/A'.
+Prediction: George Ely Worthington.
+Processed Targets: ['George Ely Worthington']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:52,625 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Brock Adams take?If no answer, say 'N/A'.
+Prediction: U.S. Representative, Senator, Secretary of Transportation.
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:33:52,832 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Brock Adams take from 1987 to 1993?If no answer, say 'N/A'.
+Prediction: U.S. Senator.
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:53,026 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Brock Adams take as of 1989?If no answer, say 'N/A'.
+Prediction: U.S. Senator
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:53,194 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Brock Adams take between Aug 1989 and Jul 1991?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:53,363 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Brock Adams take in Oct 1988?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:53,571 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last position did Brock Adams take between January 3, 1975 and January 3, 1992?If no answer, say 'N/A'.
+Prediction: U.S. Senator.
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:53,739 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Brock Adams take on January 23, 1990?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['United States Senator', 'U.S. Senator', 'Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:53,928 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Javier Maroto?If no answer, say 'N/A'.
+Prediction: Spanish politician and Senator.
+Processed Targets: ['Mayor of Vitoria-Gasteiz']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:54,168 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Javier Maroto from 11 June 2011 to 13 June 2015?If no answer, say 'N/A'.
+Prediction: Mayor of Vitoria-Gasteiz.
+Processed Targets: ['Mayor of Vitoria-Gasteiz']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:54,395 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first position of Javier Maroto from 20 February, 2013 to 24 July, 2019?If no answer, say 'N/A'.
+Prediction: Member of the Congress of Deputies.
+Processed Targets: ['Mayor of Vitoria-Gasteiz']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:33:54,648 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first position of Javier Maroto between 25 September, 2012 and 18 June, 2015?If no answer, say 'N/A'.
+Prediction: Sectorial Under-secretary of the Peoples Party.
+Processed Targets: ['Mayor of Vitoria-Gasteiz']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:33:54,926 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the last position of Javier Maroto between 2008 and 2013?If no answer, say 'N/A'.
+Prediction: Spokesman for the Peoples Party in Vitoria.
+Processed Targets: ['Mayor of Vitoria-Gasteiz']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:55,170 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Homer Thornberry?If no answer, say 'N/A'.
+Prediction: US Representative, Judge, and Federal Judge.
+Processed Targets: ['United States Navy Lieutenant Commander', 'Navy Lieutenant Commander', 'Lieutenant Commander']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:55,375 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Homer Thornberry from 1942 to 1946?If no answer, say 'N/A'.
+Prediction: United States Navy Lieutenant Commander.
+Processed Targets: ['United States Navy Lieutenant Commander', 'Navy Lieutenant Commander', 'Lieutenant Commander']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:55,580 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the last position of Homer Thornberry between 1936 to 1943?If no answer, say 'N/A'.
+Prediction: District Attorney of Travis County.
+Processed Targets: ['United States Navy Lieutenant Commander', 'Navy Lieutenant Commander', 'Lieutenant Commander']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:55,811 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the last position of Homer Thornberry between 1941 to 1943?If no answer, say 'N/A'.
+Prediction: District attorney of Travis County, Texas.
+Processed Targets: ['United States Navy Lieutenant Commander', 'Navy Lieutenant Commander', 'Lieutenant Commander']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:56,017 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first position of Homer Thornberry between 1944 to 1948?If no answer, say 'N/A'.
+Prediction: Member of the Austin City Council
+Processed Targets: ['United States Navy Lieutenant Commander', 'Navy Lieutenant Commander', 'Lieutenant Commander']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:56,235 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first position of Homer Thornberry between December 2, 1944 and July 1, 1965?If no answer, say 'N/A'.
+Prediction: Member of the United States Navy.
+Processed Targets: ['United States Navy Lieutenant Commander', 'Navy Lieutenant Commander', 'Lieutenant Commander']
+EM: 0, F1: 0.6000
+=================
+
+2025-09-15 20:33:56,577 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: The Fifer was owned by whom?If no answer, say 'N/A'.
+Prediction: Durand-Ruell, Jean-Baptiste Faure, and the French government.
+Processed Targets: ['Jean-Baptiste Faure', 'Faure']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:33:56,791 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: The Fifer was owned by whom between 1873 and 1893?If no answer, say 'N/A'.
+Prediction: Jean-Baptiste Faure.
+Processed Targets: ['Jean-Baptiste Faure', 'Faure']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:57,006 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who is the first person to own The Fifer between 1890 and 1911?If no answer, say 'N/A'.
+Prediction: Jean-Baptiste Faure.
+Processed Targets: ['Jean-Baptiste Faure', 'Faure']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:57,220 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who is the last person to own The Fifer between 1872 and 1879?If no answer, say 'N/A'.
+Prediction: Jean-Baptiste Faure.
+Processed Targets: ['Jean-Baptiste Faure', 'Faure']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:57,433 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who is the first person to own The Fifer between 1888 and 1914?If no answer, say 'N/A'.
+Prediction: Jean-Baptiste Faure.
+Processed Targets: ['Jean-Baptiste Faure', 'Faure']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:57,828 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Joseph Kalang Tie played for which team?If no answer, say 'N/A'.
+Prediction: Kuching, Sarawak FA, Terengganu FA, Pahang FA,
+Processed Targets: ['Sarawak', 'Sarawak FA']
+EM: 0, F1: 0.4444
+=================
+
+2025-09-15 20:33:58,057 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Joseph Kalang Tie played for which team in September 2012?If no answer, say 'N/A'.
+Prediction: Sarawak FA.
+Processed Targets: ['Sarawak', 'Sarawak FA']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:58,285 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first team Joseph Kalang Tie played between 2013 and 2017?If no answer, say 'N/A'.
+Prediction: Sarawak FA.
+Processed Targets: ['Sarawak', 'Sarawak FA']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:58,463 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first team Joseph Kalang Tie played  between 2014 and 2019?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Sarawak', 'Sarawak FA']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:33:58,692 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last team Joseph Kalang Tie played  between 2007 and 2014?If no answer, say 'N/A'.
+Prediction: Sarawak FA.
+Processed Targets: ['Sarawak', 'Sarawak FA']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:33:58,921 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Joseph Kalang Tie played for which team twice between December 20, 2003 and August 19, 2015?If no answer, say 'N/A'.
+Prediction: Terengganu FA.
+Processed Targets: ['Sarawak', 'Sarawak FA']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:33:59,344 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Avraham Burg?If no answer, say 'N/A'.
+Prediction: Member of the Knesset, politician, and businessman.
+Processed Targets: ['Speaker of the Knesset']
+EM: 0, F1: 0.4444
+=================
+
+2025-09-15 20:33:59,704 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Avraham Burg between 1999 and 2003?If no answer, say 'N/A'.
+Prediction: Speaker of the Knesset.
+Processed Targets: ['Speaker of the Knesset']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:00,064 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the last position of Avraham Burg from 1995 to 2000?If no answer, say 'N/A'.
+Prediction: Chairman of the Jewish Agency.
+Processed Targets: ['Speaker of the Knesset']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:34:00,424 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the last position of Avraham Burg between 1992 and 2001?If no answer, say 'N/A'.
+Prediction: Speaker of the Knesset.
+Processed Targets: ['Speaker of the Knesset']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:00,771 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Avraham Burg as of 1 August 2000?If no answer, say 'N/A'.
+Prediction: Interim President of Israel.
+Processed Targets: ['Speaker of the Knesset']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:34:01,132 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the first position of Avraham Burg between 2001 and 2013?If no answer, say 'N/A'.
+Prediction: Member of the Knesset.
+Processed Targets: ['Speaker of the Knesset']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:01,444 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which political party did Mbaye-Jacques Diop belong to?If no answer, say 'N/A'.
+Prediction: Senegalese Democratic Party (PDS).
+Processed Targets: ['Senegalese Democratic Party (PDS)', 'PDS', 'Senegalese Democratic Party']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:01,665 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which political party did Mbaye-Jacques Diop belong to on 20 May 2002?If no answer, say 'N/A'.
+Prediction: PDS.
+Processed Targets: ['Senegalese Democratic Party (PDS)', 'PDS', 'Senegalese Democratic Party']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:01,875 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which political party did Mbaye-Jacques Diop belong as of 2005?If no answer, say 'N/A'.
+Prediction: PDS
+Processed Targets: ['Senegalese Democratic Party (PDS)', 'PDS', 'Senegalese Democratic Party']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:02,187 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Mbaye-Jacques Diop first belong to in February 2008?If no answer, say 'N/A'.
+Prediction: PDS (Senegalese Democratic Party)
+Processed Targets: ['Senegalese Democratic Party (PDS)', 'PDS', 'Senegalese Democratic Party']
+EM: 0, F1: 1.0000
+=================
+
+2025-09-15 20:34:02,519 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last political party did Mbaye-Jacques Diop belong to between 1980 and 21 November 2007?If no answer, say 'N/A'.
+Prediction: The Senegalese Democratic Party (PDS).
+Processed Targets: ['Senegalese Democratic Party (PDS)', 'PDS', 'Senegalese Democratic Party']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:02,833 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Wilhelm Liebknecht a member?If no answer, say 'N/A'.
+Prediction: Social Democratic Party of Germany (SPD)
+Processed Targets: ["General German Workers' Association", 'Allgemeiner Deutscher Arbeiterverein', 'ADAV']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:03,209 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Wilhelm Liebknecht a member of in 1862?If no answer, say 'N/A'.
+Prediction: Ferdinand Lassalles General German Workers Association (ADAV).
+Processed Targets: ["General German Workers' Association", 'Allgemeiner Deutscher Arbeiterverein', 'ADAV']
+EM: 0, F1: 0.7273
+=================
+
+2025-09-15 20:34:03,587 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Wilhelm Liebknecht a member of before June 1865?If no answer, say 'N/A'.
+Prediction: Allgemeiner Deutscher Arbeiterverein (ADAV)
+Processed Targets: ["General German Workers' Association", 'Allgemeiner Deutscher Arbeiterverein', 'ADAV']
+EM: 0, F1: 0.8571
+=================
+
+2025-09-15 20:34:03,965 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which party was Wilhelm Liebknecht a member at first as of 7 August 1866?If no answer, say 'N/A'.
+Prediction: Sächsische Volkspartei (Saxon Peoples Party)
+Processed Targets: ["General German Workers' Association", 'Allgemeiner Deutscher Arbeiterverein', 'ADAV']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:04,343 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first party Wilhelm Liebknecht became a member of between 1863 and 1867?If no answer, say 'N/A'.
+Prediction: Sächsische Volkspartei (Saxon Peoples Party)
+Processed Targets: ["General German Workers' Association", 'Allgemeiner Deutscher Arbeiterverein', 'ADAV']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:04,658 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first party Wilhelm Liebknecht became a member of between 1865 and 1875?If no answer, say 'N/A'.
+Prediction: Social Democratic Party of Germany (SPD)
+Processed Targets: ["General German Workers' Association", 'Allgemeiner Deutscher Arbeiterverein', 'ADAV']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:04,911 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Gertrude Rand work for?If no answer, say 'N/A'.
+Prediction: Wilmer Ophthalmological Institute of Johns Hopkins.
+Processed Targets: ['Bryn Mawr']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:05,115 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Gertrude Rand work for from 1913 to 1927?If no answer, say 'N/A'.
+Prediction: Bryn Mawr.
+Processed Targets: ['Bryn Mawr']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:05,331 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Gertrude Rand work for before 1928?If no answer, say 'N/A'.
+Prediction: Bryn Mawr College.
+Processed Targets: ['Bryn Mawr']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:34:05,535 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Gertrude Rand work for between 1914 and 1920?If no answer, say 'N/A'.
+Prediction: Bryn Mawr.
+Processed Targets: ['Bryn Mawr']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:05,687 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Gertrude Rand work for as of October 29, 1915?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Bryn Mawr']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:05,943 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first organization Gertrude Rand work for between 1914 and 1935?If no answer, say 'N/A'.
+Prediction: Wilmer Ophthalmological Institute of Johns Hopkins.
+Processed Targets: ['Bryn Mawr']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:06,215 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Décio Esteves play for?If no answer, say 'N/A'.
+Prediction: Bangu AC, Campo Grande AC, and Olaria AC.
+Processed Targets: ['Bangu AC']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:34:06,372 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Décio Esteves play for between 1950 and 1962?If no answer, say 'N/A'.
+Prediction: Bangu AC.
+Processed Targets: ['Bangu AC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:06,515 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first team did Décio Esteves play for between 1955 and 1962?If no answer, say 'N/A'.
+Prediction: Bangu AC
+Processed Targets: ['Bangu AC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:06,722 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Décio Esteves play for as of 1959?If no answer, say 'N/A'.
+Prediction: Bangu AC and Campo Grande AC.
+Processed Targets: ['Bangu AC']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:06,865 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first team did Décio Esteves play for between 1955 and 1982?If no answer, say 'N/A'.
+Prediction: Bangu AC
+Processed Targets: ['Bangu AC']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:07,150 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Annette King take?If no answer, say 'N/A'.
+Prediction: Deputy Leader of the Labour Party.
+Processed Targets: ['Minister of Health']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:34:07,396 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Annette King take from 1999 to 2005?If no answer, say 'N/A'.
+Prediction: Minister of Health.
+Processed Targets: ['Minister of Health']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:07,604 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Annette King take as of Sep 2002?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Minister of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:07,927 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Annette King takes between August 1989 and 2003?If no answer, say 'N/A'.
+Prediction: Minister of Employment, Immigration, and Youth Affairs.
+Processed Targets: ['Minister of Health']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:34:08,135 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Annette King take in 11 November, 2004?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Minister of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:08,381 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first position Annette King takes from 2000 to 2007?If no answer, say 'N/A'.
+Prediction: Minister of Health.
+Processed Targets: ['Minister of Health']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:08,583 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Frank Joseph Rodimer take?If no answer, say 'N/A'.
+Prediction: Bishop of Paterson.
+Processed Targets: ['sixth bishop of the Diocese Paterson', 'bishop', 'bishop of the Diocese Paterson', 'Bishop of Paterson']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:08,786 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Frank Joseph Rodimer take on February 28, 1978?If no answer, say 'N/A'.
+Prediction: Bishop of Paterson.
+Processed Targets: ['sixth bishop of the Diocese Paterson', 'bishop', 'bishop of the Diocese Paterson', 'Bishop of Paterson']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:08,935 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Frank Joseph Rodimer take on May 19, 1984?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['sixth bishop of the Diocese Paterson', 'bishop', 'bishop of the Diocese Paterson', 'Bishop of Paterson']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:09,086 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Frank Joseph Rodimer take between Jul 1995 and Mar 1998?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['sixth bishop of the Diocese Paterson', 'bishop', 'bishop of the Diocese Paterson', 'Bishop of Paterson']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:09,287 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Frank Joseph Rodimer take as of 2001?If no answer, say 'N/A'.
+Prediction: Bishop of Paterson.
+Processed Targets: ['sixth bishop of the Diocese Paterson', 'bishop', 'bishop of the Diocese Paterson', 'Bishop of Paterson']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:09,464 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position did Frank Joseph Rodimer take between December 1964 and April 1999?If no answer, say 'N/A'.
+Prediction: Diocesan Chancellor
+Processed Targets: ['sixth bishop of the Diocese Paterson', 'bishop', 'bishop of the Diocese Paterson', 'Bishop of Paterson']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:09,680 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Roseanna Cunningham take?If no answer, say 'N/A'.
+Prediction: Cabinet Secretary for Environment.
+Processed Targets: ['Member of the Scottish Parliament (MSP) for Perth', 'Member of the Scottish Parliament', 'MSP for Perth']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:34:09,973 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Roseanna Cunningham take from 1999 to 2011?If no answer, say 'N/A'.
+Prediction: Member of the Scottish Parliament (MSP) for Perth.
+Processed Targets: ['Member of the Scottish Parliament (MSP) for Perth', 'Member of the Scottish Parliament', 'MSP for Perth']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:10,201 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Roseanna Cunningham take as of 2002?If no answer, say 'N/A'.
+Prediction: Depute leader of the SNP.
+Processed Targets: ['Member of the Scottish Parliament (MSP) for Perth', 'Member of the Scottish Parliament', 'MSP for Perth']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:34:10,456 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Roseanna Cunningham take between May 2010 and Jan 2011?If no answer, say 'N/A'.
+Prediction: Minister for the Environment and Climate Change.
+Processed Targets: ['Member of the Scottish Parliament (MSP) for Perth', 'Member of the Scottish Parliament', 'MSP for Perth']
+EM: 0, F1: 0.2222
+=================
+
+2025-09-15 20:34:10,621 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Roseanna Cunningham take in February 2003?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Member of the Scottish Parliament (MSP) for Perth', 'Member of the Scottish Parliament', 'MSP for Perth']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:10,856 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the official name of Team Novo Nordisk?If no answer, say 'N/A'.
+Prediction: Team Novo Nordisk.
+Processed Targets: ['Team Type 1', 'TT1']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:34:11,077 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Team Novo Nordisk in 2005?If no answer, say 'N/A'.
+Prediction: Team Type 1.
+Processed Targets: ['Team Type 1', 'TT1']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:11,299 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the official name of Team Novo Nordisk before Dec 2008?If no answer, say 'N/A'.
+Prediction: Team Type 1.
+Processed Targets: ['Team Type 1', 'TT1']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:11,521 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the first official name of Team Novo Nordisk between 2006 and 2013?If no answer, say 'N/A'.
+Prediction: Team Type 1.
+Processed Targets: ['Team Type 1', 'TT1']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:11,730 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the first official name of Team Novo Nordisk before 2011?If no answer, say 'N/A'.
+Prediction: Team Type 1
+Processed Targets: ['Team Type 1', 'TT1']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:12,022 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Henrique Sereno play for?If no answer, say 'N/A'.
+Prediction: Numerous teams, including Vitória de Guimarães.
+Processed Targets: ['Vitória de Guimarães']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:12,263 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Henrique Sereno play for in 2005?If no answer, say 'N/A'.
+Prediction: Vitória de Guimarães.
+Processed Targets: ['Vitória de Guimarães']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:12,503 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Henrique Sereno play for as of 2008?If no answer, say 'N/A'.
+Prediction: Vitória de Guimarães.
+Processed Targets: ['Vitória de Guimarães']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:12,730 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Henrique Sereno play for between Mar 2007 and Jun 2009?If no answer, say 'N/A'.
+Prediction: Vitória de Guimarães
+Processed Targets: ['Vitória de Guimarães']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:12,971 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Henrique Sereno play for as of 20 August, 2007?If no answer, say 'N/A'.
+Prediction: Vitória de Guimarães.
+Processed Targets: ['Vitória de Guimarães']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:13,294 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Gene Markey?If no answer, say 'N/A'.
+Prediction: Lucille Parker Wright Markey.
+Processed Targets: ['Lucille Parker Wright']
+EM: 0, F1: 0.8571
+=================
+
+2025-09-15 20:34:13,593 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Gene Markey on September 27, 1952?If no answer, say 'N/A'.
+Prediction: Lucille Parker Wright.
+Processed Targets: ['Lucille Parker Wright']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:13,892 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Gene Markey as of July 31, 1958?If no answer, say 'N/A'.
+Prediction: Lucille Parker Wright.
+Processed Targets: ['Lucille Parker Wright']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:14,177 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the last spouse of Gene Markey between 1932 and 1980?If no answer, say 'N/A'.
+Prediction: Lucille Parker Wright
+Processed Targets: ['Lucille Parker Wright']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:14,476 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the last spouse of Gene Markey by 1975?If no answer, say 'N/A'.
+Prediction: Lucille Parker Wright.
+Processed Targets: ['Lucille Parker Wright']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:14,775 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the last spouse of Gene Markey after 1946?If no answer, say 'N/A'.
+Prediction: Lucille Parker Wright.
+Processed Targets: ['Lucille Parker Wright']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:15,137 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Darren Carter played for which team?If no answer, say 'N/A'.
+Prediction: Solihull Moors.
+Processed Targets: ['Preston North End']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:15,499 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Darren Carter played for which team in 2007?If no answer, say 'N/A'.
+Prediction: Preston North End.
+Processed Targets: ['Preston North End']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:15,870 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Darren Carter played for which team as of 2009?If no answer, say 'N/A'.
+Prediction: Preston North End.
+Processed Targets: ['Preston North End']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:16,228 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Darren Carter played for which team in February 2008?If no answer, say 'N/A'.
+Prediction: Preston North End
+Processed Targets: ['Preston North End']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:16,573 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team Darren Carter played for from 29 January 2002 to January 2010?If no answer, say 'N/A'.
+Prediction: Birmingham City.
+Processed Targets: ['Preston North End']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:16,944 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team Darren Carter played for from 2005 to 2010?If no answer, say 'N/A'.
+Prediction: West Bromwich Albion.
+Processed Targets: ['Preston North End']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:17,267 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where did Gustav Herglotz work?If no answer, say 'N/A'.
+Prediction: Göttingen, Vienna, Munich, Leipzig, and Munich.
+Processed Targets: ['University of Göttingen']
+EM: 0, F1: 0.2222
+=================
+
+2025-09-15 20:34:17,474 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where did Gustav Herglotz work from 1925 to 1947?If no answer, say 'N/A'.
+Prediction: Göttingen.
+Processed Targets: ['University of Göttingen']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:17,707 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last place Gustav Herglotz worked until 1940?If no answer, say 'N/A'.
+Prediction: University of Göttingen.
+Processed Targets: ['University of Göttingen']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:17,913 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Where did Gustav Herglotz work after Aug 1943?If no answer, say 'N/A'.
+Prediction: Göttingen.
+Processed Targets: ['University of Göttingen']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:18,145 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last place Gustav Herglotz worked between 1900 and 1930?If no answer, say 'N/A'.
+Prediction: University of Göttingen.
+Processed Targets: ['University of Göttingen']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:18,362 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Björn Bergmann Sigurðarson belong to?If no answer, say 'N/A'.
+Prediction: Molde.
+Processed Targets: ['Wolverhampton Wanderers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:18,618 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Björn Bergmann Sigurðarson belong to in 2012?If no answer, say 'N/A'.
+Prediction: Wolverhampton Wanderers.
+Processed Targets: ['Wolverhampton Wanderers']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:18,874 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Björn Bergmann Sigurðarson belong to between Jun 2014 and Dec 2015?If no answer, say 'N/A'.
+Prediction: Molde (on loan).
+Processed Targets: ['Wolverhampton Wanderers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:19,130 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team Björn Bergmann Sigurðarson belongs to between 22 March 2009 and 2014?If no answer, say 'N/A'.
+Prediction: Lillestrøm SK.
+Processed Targets: ['Wolverhampton Wanderers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:19,386 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Björn Bergmann Sigurðarson belong to as of 22 March 2014?If no answer, say 'N/A'.
+Prediction: Molde (on loan)
+Processed Targets: ['Wolverhampton Wanderers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:19,759 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Alliance of Small Island States?If no answer, say 'N/A'.
+Prediction: Lois Michele Young (Belize).
+Processed Targets: ['Ahmed Sareer']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:20,143 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Alliance of Small Island States from 2015 to 2017?If no answer, say 'N/A'.
+Prediction: Ahmed Sareer (Maldives).
+Processed Targets: ['Ahmed Sareer']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:34:20,440 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Alliance of Small Island States as of 18 July, 2016?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ahmed Sareer']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:20,815 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last chair of Alliance of Small Island States between 2012 and 2016?If no answer, say 'N/A'.
+Prediction: Marlene Moses (Nauru).
+Processed Targets: ['Ahmed Sareer']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:21,112 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first chair of Alliance of Small Island States between Feb 2016 and 17 December 2021?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ahmed Sareer']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:21,538 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the commander of Southern Military District (Milo S)?If no answer, say 'N/A'.
+Prediction: N/A (Information not available for this time period)
+Processed Targets: ['Oscar Krokstedt']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:21,948 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the commander of Southern Military District (Milo S) from 1968 to 1972?If no answer, say 'N/A'.
+Prediction: Vice Admiral Oscar Krokstedt.
+Processed Targets: ['Oscar Krokstedt']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:22,267 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the commander of Southern Military District (Milo S) in Jun 1969?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Oscar Krokstedt']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:22,587 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the commander of Southern Military District (Milo S) as of 1932?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Oscar Krokstedt']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:22,960 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the latest commander of Southern Military District (Milo S) between 1948 and 1970?If no answer, say 'N/A'.
+Prediction: Major General Viking Tamm.
+Processed Targets: ['Oscar Krokstedt']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:23,279 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first commander of Southern Military District (Milo S) from 1971 to 1980?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Oscar Krokstedt']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:23,610 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did William Langer take?If no answer, say 'N/A'.
+Prediction: Non-interventionist in world affairs.
+Processed Targets: ['United States Senate', 'United States Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:23,888 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did William Langer take from 1940 to 1959?If no answer, say 'N/A'.
+Prediction: United States Senator.
+Processed Targets: ['United States Senate', 'United States Senator']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:24,141 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did William Langer take as of September 30, 1952?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['United States Senate', 'United States Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:24,433 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did William Langer take after Feb 1945?If no answer, say 'N/A'.
+Prediction: Non-interventionism.
+Processed Targets: ['United States Senate', 'United States Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:24,724 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did William Langer take between 1945 and 1950?If no answer, say 'N/A'.
+Prediction: Non-interventionist.
+Processed Targets: ['United States Senate', 'United States Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:24,977 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did William Langer take in 1948?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['United States Senate', 'United States Senator']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:25,803 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team was coached by Alex McLeish?If no answer, say 'N/A'.
+Prediction: Aberdeen, Motherwell, Hibernian, Rangers, Birmingham City, Aston Villa, Nottingham
+Processed Targets: ['Birmingham City']
+EM: 0, F1: 0.3636
+=================
+
+2025-09-15 20:34:26,436 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team was coached by Alex McLeish in November 2007?If no answer, say 'N/A'.
+Prediction: Birmingham City.
+Processed Targets: ['Birmingham City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:27,058 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team was coached by Alex McLeish in late 2000s?If no answer, say 'N/A'.
+Prediction: Rangers.
+Processed Targets: ['Birmingham City']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:27,692 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team was coached by Alex McLeish as of 2009?If no answer, say 'N/A'.
+Prediction: Birmingham City.
+Processed Targets: ['Birmingham City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:28,326 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team was coached by Alex McLeish in January 2008?If no answer, say 'N/A'.
+Prediction: Birmingham City.
+Processed Targets: ['Birmingham City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:28,948 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team Alex McLeish coached between 9 February 2006 and 5 May 2009?If no answer, say 'N/A'.
+Prediction: Rangers.
+Processed Targets: ['Birmingham City']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:29,358 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Jiří Jarošík belong to?If no answer, say 'N/A'.
+Prediction: Sparta Prague, Chelsea, Celtic, Krylia Sovetov, Real Zaragoza
+Processed Targets: ['Krylia Sovetov']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:34:29,613 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Jiří Jarošík belong to between 2008 and 2010?If no answer, say 'N/A'.
+Prediction: Krylia Sovetov.
+Processed Targets: ['Krylia Sovetov']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:29,804 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Jiří Jarošík belong to as of 10 August 2009?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Krylia Sovetov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:30,021 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team the player Jiří Jarošík belongs to between 10 August 2004 and February 2019?If no answer, say 'N/A'.
+Prediction: Sparta Prague
+Processed Targets: ['Krylia Sovetov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:30,391 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head coach of the team UD Las Palmas?If no answer, say 'N/A'.
+Prediction: N/A (multiple coaches listed)
+Processed Targets: ['Quique Setién']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:30,749 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head coach of the team UD Las Palmas on 19 October 2015?If no answer, say 'N/A'.
+Prediction: Paco Jémez.
+Processed Targets: ['Quique Setién']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:31,055 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head coach of the team UD Las Palmas on 26 May 2016?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Quique Setién']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:31,580 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last head coach of the team UD Las Palmas between 2011 and 2017?If no answer, say 'N/A'.
+Prediction: Sergio Lobera (2012–14) and Quique Setién (2015
+Processed Targets: ['Quique Setién']
+EM: 0, F1: 0.4444
+=================
+
+2025-09-15 20:34:31,937 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first head coach of the team UD Las Palmas from 2016 to 2018?If no answer, say 'N/A'.
+Prediction: Paco Jémez.
+Processed Targets: ['Quique Setién']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:32,156 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Bradley Orr belong to?If no answer, say 'N/A'.
+Prediction: N/A (retired)
+Processed Targets: ['Bristol City']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:32,350 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Bradley Orr belong to in July 2004?If no answer, say 'N/A'.
+Prediction: Bristol City.
+Processed Targets: ['Bristol City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:32,519 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Bradley Orr belong to on 25 January 2008?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Bristol City']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:32,714 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Bradley Orr belong to as of 2006?If no answer, say 'N/A'.
+Prediction: Bristol City.
+Processed Targets: ['Bristol City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:32,909 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Bradley Orr belong to between 2006 and 2008?If no answer, say 'N/A'.
+Prediction: Bristol City.
+Processed Targets: ['Bristol City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:33,091 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last team the player Bradley Orr belongs to from 2002 to 2008?If no answer, say 'N/A'.
+Prediction: Bristol City
+Processed Targets: ['Bristol City']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:33,362 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Harry Dunn belong to?If no answer, say 'N/A'.
+Prediction: Bishop Auckland, Scarborough, Blyth Spartans.
+Processed Targets: ['Bishop Auckland']
+EM: 0, F1: 0.5714
+=================
+
+2025-09-15 20:34:33,532 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first team player Harry Dunn belongs to since 1983?If no answer, say 'N/A'.
+Prediction: Bishop Auckland.
+Processed Targets: ['Bishop Auckland']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:33,715 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first team player Harry Dunn belongs to since 1986?If no answer, say 'N/A'.
+Prediction: Blyth Spartans
+Processed Targets: ['Bishop Auckland']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:33,884 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the team player Harry Dunn belongs to as of 1991?If no answer, say 'N/A'.
+Prediction: Bishop Auckland.
+Processed Targets: ['Bishop Auckland']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:34,028 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the team player Harry Dunn belongs to on 4 October 1987?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Bishop Auckland']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:34,185 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the team player Harry Dunn belongs to in 1990?If no answer, say 'N/A'.
+Prediction: Bishop Auckland
+Processed Targets: ['Bishop Auckland']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:34,380 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team player Harry Dunn belongs to between 1971 and 1990?If no answer, say 'N/A'.
+Prediction: Blyth Spartans.
+Processed Targets: ['Bishop Auckland']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:35,240 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Helen Zille took which position?If no answer, say 'N/A'.
+Prediction: Federal Council Chairperson.
+Processed Targets: ['Premier of the Western Cape']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:36,126 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Helen Zille took which position from 2009 to 2019?If no answer, say 'N/A'.
+Prediction: Premier of the Western Cape.
+Processed Targets: ['Premier of the Western Cape']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:36,946 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Helen Zille took which position in Aug 2011?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Premier of the Western Cape']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:37,820 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Helen Zille took which position as of 2015?If no answer, say 'N/A'.
+Prediction: Party Leader of the DA.
+Processed Targets: ['Premier of the Western Cape']
+EM: 0, F1: 0.2500
+=================
+
+2025-09-15 20:34:38,705 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Helen Zille took which position as of March 2018?If no answer, say 'N/A'.
+Prediction: Premier of the Western Cape.
+Processed Targets: ['Premier of the Western Cape']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:39,152 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Kelvin Wilson play for?If no answer, say 'N/A'.
+Prediction: Nottingham Forest, Celtic, Rotherham United, and Ilkeston Town.
+Processed Targets: ['Nottingham Forest']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:34:39,430 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Kelvin Wilson play for in July 2007?If no answer, say 'N/A'.
+Prediction: Nottingham Forest.
+Processed Targets: ['Nottingham Forest']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:39,709 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did Kelvin Wilson play for as of 2009?If no answer, say 'N/A'.
+Prediction: Nottingham Forest.
+Processed Targets: ['Nottingham Forest']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:39,988 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did Kelvin Wilson play for on 2 August 2010?If no answer, say 'N/A'.
+Prediction: Rotherham United
+Processed Targets: ['Nottingham Forest']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:40,267 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team Kelvin Wilson played for between 2003 and 2010?If no answer, say 'N/A'.
+Prediction: Notts County.
+Processed Targets: ['Nottingham Forest']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:40,523 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Jan Kromkamp belong to?If no answer, say 'N/A'.
+Prediction: AZ, PSV, and Go Ahead Eagles.
+Processed Targets: ['AZ', 'AZ Alkmaar']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:34:40,676 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Jan Kromkamp belong to between 2000 and 2005?If no answer, say 'N/A'.
+Prediction: AZ.
+Processed Targets: ['AZ', 'AZ Alkmaar']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:40,829 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Jan Kromkamp belong to in Jul 2002?If no answer, say 'N/A'.
+Prediction: AZ.
+Processed Targets: ['AZ', 'AZ Alkmaar']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:40,982 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which team did the player Jan Kromkamp belong to from 2002 to 2004?If no answer, say 'N/A'.
+Prediction: AZ.
+Processed Targets: ['AZ', 'AZ Alkmaar']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:41,148 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last team the player Jan Kromkamp belongs to from 1998 to 2004?If no answer, say 'N/A'.
+Prediction: Go Ahead Eagles
+Processed Targets: ['AZ', 'AZ Alkmaar']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:41,340 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which team did the player Jan Kromkamp belong to as of 18 August 2004?If no answer, say 'N/A'.
+Prediction: The Dutch national team.
+Processed Targets: ['AZ', 'AZ Alkmaar']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:41,541 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Isaac Tichenor take?If no answer, say 'N/A'.
+Prediction: Member of the Federalist Party.
+Processed Targets: ['United States Senate']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:41,703 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Isaac Tichenor take from 1815 to 1821?If no answer, say 'N/A'.
+Prediction: United States Senator.
+Processed Targets: ['United States Senate']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:41,840 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Isaac Tichenor take in Mar 1819?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['United States Senate']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:41,990 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position did Isaac Tichenor take between 1808 and 1816?If no answer, say 'N/A'.
+Prediction: United States Senator
+Processed Targets: ['United States Senate']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:42,166 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Isaac Tichenor take as of March 4, 1817?If no answer, say 'N/A'.
+Prediction: Governor of Vermont.
+Processed Targets: ['United States Senate']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:42,316 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What the last position did Isaac Tichenor take by 1820?If no answer, say 'N/A'.
+Prediction: US Senator.
+Processed Targets: ['United States Senate']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:42,652 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Isabel Preysler?If no answer, say 'N/A'.
+Prediction: Julio Iglesias, Carlos Falcó, Miguel Boyer.
+Processed Targets: ['Carlos Falcó']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:43,000 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Isabel Preysler since 1980?If no answer, say 'N/A'.
+Prediction: Carlos Falcó, 5th Marquess of Griñón.
+Processed Targets: ['Carlos Falcó']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:43,219 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Isabel Preysler in Sep 1984?If no answer, say 'N/A'.
+Prediction: Julio Iglesias.
+Processed Targets: ['Carlos Falcó']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:43,387 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Isabel Preysler as of January 29, 1982?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Carlos Falcó']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:43,556 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last spouse of Isabel Preysler between 1971 and 1984?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Carlos Falcó']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:43,725 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the latest spouse of Isabel Preysler before 1987?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Carlos Falcó']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:43,999 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Charles de Champs took which position?If no answer, say 'N/A'.
+Prediction: Chief of the Naval Staff and Navy.
+Processed Targets: ['Chief of the Navy']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:44,233 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Charles de Champs took which position between 1936 and 1939?If no answer, say 'N/A'.
+Prediction: Chief of the Navy.
+Processed Targets: ['Chief of the Navy']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:44,428 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Charles de Champs took which position in Sep 1937?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Chief of the Navy']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:44,625 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Charles de Champs took which position as of 17 February 1938?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Chief of the Navy']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:44,847 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the last position Charles de Champs took between 1927 and 1938?If no answer, say 'N/A'.
+Prediction: Chief of the Navy
+Processed Targets: ['Chief of the Navy']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:45,076 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which university did Andrew D. Martin work for?If no answer, say 'N/A'.
+Prediction: Washington University in St. Louis.
+Processed Targets: ['Washington University']
+EM: 0, F1: 0.5714
+=================
+
+2025-09-15 20:34:45,344 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which university did Andrew D. Martin work for in 2000?If no answer, say 'N/A'.
+Prediction: State University of New York at Stony Brook.
+Processed Targets: ['Washington University']
+EM: 0, F1: 0.2000
+=================
+
+2025-09-15 20:34:45,509 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which university did Andrew D. Martin work for in April 25, 2008?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Washington University']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:45,778 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which university did Andrew D. Martin work for before 2012?If no answer, say 'N/A'.
+Prediction: State University of New York at Stony Brook.
+Processed Targets: ['Washington University']
+EM: 0, F1: 0.2000
+=================
+
+2025-09-15 20:34:45,943 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which university did Andrew D. Martin work for between 2006 and 2011?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Washington University']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:46,212 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first university Andrew D. Martin worked for from 2002 to 2018?If no answer, say 'N/A'.
+Prediction: State University of New York at Stony Brook.
+Processed Targets: ['Washington University']
+EM: 0, F1: 0.2000
+=================
+
+2025-09-15 20:34:46,440 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Edwin C. Johnson took which position?If no answer, say 'N/A'.
+Prediction: Governor and U.S. Senator.
+Processed Targets: ['governor of Colorado', '34th governor of Colorado']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:34:46,631 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Edwin C. Johnson took which position from January 10, 1933 to January 1, 1937?If no answer, say 'N/A'.
+Prediction: Governor of Colorado.
+Processed Targets: ['governor of Colorado', '34th governor of Colorado']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:46,782 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Edwin C. Johnson took which position as of March 14, 1936?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['governor of Colorado', '34th governor of Colorado']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:46,936 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the last position Edwin C. Johnson took on 22 August 1934?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['governor of Colorado', '34th governor of Colorado']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:47,099 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the name of the employer Johannes Teyssen work for?If no answer, say 'N/A'.
+Prediction: E.ON.
+Processed Targets: ['E.ON']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:47,301 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the name of the employer Johannes Teyssen work for in 2001?If no answer, say 'N/A'.
+Prediction: E.ON Energies AG.
+Processed Targets: ['E.ON']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:47,477 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the name of the employer Johannes Teyssen work for as of 2011?If no answer, say 'N/A'.
+Prediction: E.ON Group.
+Processed Targets: ['E.ON']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:47,640 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the name of the employer Johannes Teyssen work for as of 2008?If no answer, say 'N/A'.
+Prediction: E.ON.
+Processed Targets: ['E.ON']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:47,944 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the name of the employer Johannes Teyssen work for after Jun 2005?If no answer, say 'N/A'.
+Prediction: E.ON Ruhrgas AG and E.ON Energy Trading AG.
+Processed Targets: ['E.ON']
+EM: 0, F1: 0.2222
+=================
+
+2025-09-15 20:34:48,219 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: J. Eugene Grigsby was an employee for whom?If no answer, say 'N/A'.
+Prediction: Carver High School and Arizona State University.
+Processed Targets: ['Carver High School']
+EM: 0, F1: 0.6000
+=================
+
+2025-09-15 20:34:48,430 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: J. Eugene Grigsby was an employee for whom in 1946?If no answer, say 'N/A'.
+Prediction: Carver High School
+Processed Targets: ['Carver High School']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:48,614 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: J. Eugene Grigsby was an employee for whom as of 1950?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Carver High School']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:48,799 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: J. Eugene Grigsby was an employee for whom in May 1953?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Carver High School']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:48,985 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: J. Eugene Grigsby was an employee for whom between 1948 and 1952?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Carver High School']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:49,458 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which employer did A. J. Muste work for?If no answer, say 'N/A'.
+Prediction: Northwestern Classical Academy.
+Processed Targets: ['Brookwood Labor College']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:49,931 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which employer did A. J. Muste work for from 1921 to 1933?If no answer, say 'N/A'.
+Prediction: Brookwood Labor College
+Processed Targets: ['Brookwood Labor College']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:50,366 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which employer did A. J. Muste work for as of 1931?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Brookwood Labor College']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:50,956 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which employer did A. J. Muste work for as of 1929?If no answer, say 'N/A'.
+Prediction: Amalgamated Textile Workers of America (ATWU)
+Processed Targets: ['Brookwood Labor College']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:51,390 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which employer did A. J. Muste work for in September 1928?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Brookwood Labor College']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:51,720 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Raphael Schäfer played for which team?If no answer, say 'N/A'.
+Prediction: 1. FC Nürnberg, VfB Stuttgart, and Hannover 96.
+Processed Targets: ['1. FC Nürnberg']
+EM: 0, F1: 0.5455
+=================
+
+2025-09-15 20:34:51,909 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Raphael Schäfer played for which team in 2001?If no answer, say 'N/A'.
+Prediction: 1. FC Nürnberg.
+Processed Targets: ['1. FC Nürnberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:52,098 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Raphael Schäfer played for which team as of 2005?If no answer, say 'N/A'.
+Prediction: 1. FC Nürnberg.
+Processed Targets: ['1. FC Nürnberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:52,286 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Raphael Schäfer played for which team in Jan 2006?If no answer, say 'N/A'.
+Prediction: 1. FC Nürnberg.
+Processed Targets: ['1. FC Nürnberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:52,856 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: World Athletics was officially named what?If no answer, say 'N/A'.
+Prediction: World Athletics.
+Processed Targets: ['the International Association of Athletics Federations', 'IAAF']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:34:53,479 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: World Athletics was officially named what in 2001?If no answer, say 'N/A'.
+Prediction: International Association of Athletics Federations.
+Processed Targets: ['the International Association of Athletics Federations', 'IAAF']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:54,036 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: World Athletics was officially named what between Nov 2014 and Aug 2016?If no answer, say 'N/A'.
+Prediction: IAAF
+Processed Targets: ['the International Association of Athletics Federations', 'IAAF']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:54,660 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: World Athletics was officially named what between 2005 and 2008?If no answer, say 'N/A'.
+Prediction: International Association of Athletics Federations.
+Processed Targets: ['the International Association of Athletics Federations', 'IAAF']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:55,320 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the official name of World Athletics as of 1 November 2015?If no answer, say 'N/A'.
+Prediction: IAAF (International Association of Athletics Federations).
+Processed Targets: ['the International Association of Athletics Federations', 'IAAF']
+EM: 0, F1: 0.9091
+=================
+
+2025-09-15 20:34:55,582 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Manresa Island was officially named what?If no answer, say 'N/A'.
+Prediction: Manresa Island.
+Processed Targets: ['Boutons Island']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:34:55,858 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Manresa Island was officially named what in 1664?If no answer, say 'N/A'.
+Prediction: Boutons Island.
+Processed Targets: ['Boutons Island']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:56,121 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Manresa Island was officially named what as of April 21, 1689?If no answer, say 'N/A'.
+Prediction: Manresa Institute.
+Processed Targets: ['Boutons Island']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:34:56,397 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first official name of Manresa Island between 1595 and 1911?If no answer, say 'N/A'.
+Prediction: Boutons Island.
+Processed Targets: ['Boutons Island']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:56,674 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What is the first official name of Manresa Island before April 21, 1889?If no answer, say 'N/A'.
+Prediction: Boutons Island.
+Processed Targets: ['Boutons Island']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:34:57,622 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Arnolfini Portrait was owned by whom?If no answer, say 'N/A'.
+Prediction: National Gallery in London.
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:34:58,590 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Arnolfini Portrait was owned by whom since 1842?If no answer, say 'N/A'.
+Prediction: The National Gallery, London.
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:34:59,546 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Arnolfini Portrait was owned by whom as of 1858?If no answer, say 'N/A'.
+Prediction: Philip II of Spain.
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:00,462 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Arnolfini Portrait was owned by whom in 1997?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:01,420 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Arnolfini Portrait was owned by whom between Jan 1844 and Feb 1852?If no answer, say 'N/A'.
+Prediction: Colonel James Hay.
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:02,389 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who is the last one owned Arnolfini Portrait after 1700?If no answer, say 'N/A'.
+Prediction: The National Gallery, London.
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:35:03,346 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who is the first one owned Arnolfini Portrait after 1900?If no answer, say 'N/A'.
+Prediction: Colonel James Hay.
+Processed Targets: ['National Gallery']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:04,243 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the capital of Veliky Novgorod?If no answer, say 'N/A'.
+Prediction: Novgorod the Great (Veliky Novgorod).
+Processed Targets: ['Novgorod Governorate']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:35:05,061 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the capital of Veliky Novgorod in 1727?If no answer, say 'N/A'.
+Prediction: Novgorod Governorate.
+Processed Targets: ['Novgorod Governorate']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:05,828 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the capital of Veliky Novgorod on 19 January 1922?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Novgorod Governorate']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:06,625 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the capital of Veliky Novgorod as of 1862?If no answer, say 'N/A'.
+Prediction: St. Petersburg.
+Processed Targets: ['Novgorod Governorate']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:07,168 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Svetlana Alliluyeva?If no answer, say 'N/A'.
+Prediction: She had several spouses: Grigory Morozov, Yuri Zhdanov, Ivan S
+Processed Targets: ['Yuri Zhdanov']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:35:07,542 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Svetlana Alliluyeva in 1949?If no answer, say 'N/A'.
+Prediction: Yuri Zhdanov
+Processed Targets: ['Yuri Zhdanov']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:07,918 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the last spouse of Svetlana Alliluyeva between 1940 and 1950?If no answer, say 'N/A'.
+Prediction: Yuri Zhdanov
+Processed Targets: ['Yuri Zhdanov']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:08,242 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Svetlana Alliluyeva as of 26 April 1951?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Yuri Zhdanov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:09,014 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Conor Cruise O'Brien take?If no answer, say 'N/A'.
+Prediction: Unionist.
+Processed Targets: ['Vice-Chancellor of the University of Ghana']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:09,874 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Conor Cruise O'Brien take from 1962 to 1965?If no answer, say 'N/A'.
+Prediction: Vice-Chancellor of the University of Ghana.
+Processed Targets: ['Vice-Chancellor of the University of Ghana']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:10,785 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Conor Cruise O'Brien take in October 1963?If no answer, say 'N/A'.
+Prediction: Won a Jacobs Award for a Telefís Éireann programme.
+Processed Targets: ['Vice-Chancellor of the University of Ghana']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:11,632 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What is the first position did Conor Cruise O'Brien take between 1963 and 23 March 1973?If no answer, say 'N/A'.
+Prediction: Member of the European Parliament (MEP).
+Processed Targets: ['Vice-Chancellor of the University of Ghana']
+EM: 0, F1: 0.2000
+=================
+
+2025-09-15 20:35:12,097 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was Marie, Duchess of Auvergne's spouse?If no answer, say 'N/A'.
+Prediction: Marie, Duchess of Auvergne's spouses were three: 
+
+1. Louis III de Ch
+Processed Targets: ['Philip of Artois', 'Philip of Artois, Count of Eu']
+EM: 0, F1: 0.1333
+=================
+
+2025-09-15 20:35:12,447 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Marie, Duchess of Auvergne's spouse in 1393?If no answer, say 'N/A'.
+Prediction: Philip of Artois, Count of Eu.
+Processed Targets: ['Philip of Artois', 'Philip of Artois, Count of Eu']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:12,798 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Marie, Duchess of Auvergne's spouse in 1397?If no answer, say 'N/A'.
+Prediction: Philip of Artois, Count of Eu.
+Processed Targets: ['Philip of Artois', 'Philip of Artois, Count of Eu']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:13,148 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Marie, Duchess of Auvergne's spouse between 1395 and 21 June, 1399?If no answer, say 'N/A'.
+Prediction: Philip of Artois, Count of Eu.
+Processed Targets: ['Philip of Artois', 'Philip of Artois, Count of Eu']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:13,422 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last spouse of Marie, Duchess of Auvergne's spouse between 15 June, 1386 and 21 June, 1400?If no answer, say 'N/A'.
+Prediction: John of Bourbon.
+Processed Targets: ['Philip of Artois', 'Philip of Artois, Count of Eu']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:35:14,252 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: When was the airplane crashing for All Nippon Airways?If no answer, say 'N/A'.
+Prediction: On 4 February 1966.
+Processed Targets: ['13 November 1966', '1966']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:35:15,090 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: When was the last airplane crashing for All Nippon Airways as of Nov 1966?If no answer, say 'N/A'.
+Prediction: On 4 February 1966.
+Processed Targets: ['13 November 1966', '1966']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:35:15,925 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: When was the last airplane crashing for All Nippon Airways as of 1970?If no answer, say 'N/A'.
+Prediction: On 4 February 1966.
+Processed Targets: ['13 November 1966', '1966']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:35:16,741 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: When was the last airplane crashing for All Nippon Airways between 12 August 1958 and 1968?If no answer, say 'N/A'.
+Prediction: 6 September 2011.
+Processed Targets: ['13 November 1966', '1966']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:17,047 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Athlone House?If no answer, say 'N/A'.
+Prediction: Mikhail Fridman.
+Processed Targets: ['Ministry of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:17,350 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who owned Athlone House in 1951?If no answer, say 'N/A'.
+Prediction: The Ministry of Health.
+Processed Targets: ['Ministry of Health']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:17,616 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who is the last owner of Athlone House between 1832 and 1977?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ministry of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:17,882 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Athlone House between May 1987 and Dec 1995?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ministry of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:18,154 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Athlone House in 2001?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ministry of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:18,423 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Athlone House as of 20 September 1971?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ministry of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:18,691 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Athlone House as on 13 April 1961?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Ministry of Health']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:19,899 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who directed or managed Russian Air Force?If no answer, say 'N/A'.
+Prediction: Lieutenant General Andrey Yudin and Lieutenant General Sergey Dronov were the commanders of the
+Processed Targets: ['Pavel Kutakhov', 'Pavel Stepanovich Kutakhov', 'Kutakhov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:20,884 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who directed or managed Russian Air Force between 1969 and 1984?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Pavel Kutakhov', 'Pavel Stepanovich Kutakhov', 'Kutakhov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:21,869 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who directed or managed Russian Air Force as of 6 October 1973?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Pavel Kutakhov', 'Pavel Stepanovich Kutakhov', 'Kutakhov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:22,854 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who directed or managed Russian Air Force between 1972 and 1978?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Pavel Kutakhov', 'Pavel Stepanovich Kutakhov', 'Kutakhov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:23,838 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who directed or managed Russian Air Force in 1982?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Pavel Kutakhov', 'Pavel Stepanovich Kutakhov', 'Kutakhov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:24,823 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who directed or managed Russian Air Force in 1980?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Pavel Kutakhov', 'Pavel Stepanovich Kutakhov', 'Kutakhov']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:25,079 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Slaughtered Ox?If no answer, say 'N/A'.
+Prediction: Christoffel Hirschvogel.
+Processed Targets: ['Louis Viardot']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:25,283 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Slaughtered Ox from 1781 to 1857?If no answer, say 'N/A'.
+Prediction: Pieter Locquet.
+Processed Targets: ['Louis Viardot']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:25,487 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Slaughtered Ox in 1783?If no answer, say 'N/A'.
+Prediction: Pieter Locquet.
+Processed Targets: ['Louis Viardot']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:25,691 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Slaughtered Ox between 1800 and 1820?If no answer, say 'N/A'.
+Prediction: Pieter Locquet.
+Processed Targets: ['Louis Viardot']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:25,856 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Slaughtered Ox as of 1842?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Louis Viardot']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:26,113 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which list was St Luke's Anglican Church, Liverpool designated at?If no answer, say 'N/A'.
+Prediction: New South Wales State Heritage Register.
+Processed Targets: ['New South Wales State Heritage Register']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:26,368 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which list was St Luke's Anglican Church, Liverpool designated at in 1999?If no answer, say 'N/A'.
+Prediction: New South Wales State Heritage Register.
+Processed Targets: ['New South Wales State Heritage Register']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:26,624 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which list was St Luke's Anglican Church, Liverpool designated at after 18 October 1819?If no answer, say 'N/A'.
+Prediction: New South Wales State Heritage Register.
+Processed Targets: ['New South Wales State Heritage Register']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:26,880 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which list was St Luke's Anglican Church, Liverpool designated at before 1 June 2018?If no answer, say 'N/A'.
+Prediction: New South Wales State Heritage Register.
+Processed Targets: ['New South Wales State Heritage Register']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:27,115 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Charles Fechter was an employee for whom?If no answer, say 'N/A'.
+Prediction: Anglo-French actor.
+Processed Targets: ['New Park Theatre']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:27,299 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Charles Fechter was an employee for whom in 1874?If no answer, say 'N/A'.
+Prediction: William Stuart
+Processed Targets: ['New Park Theatre']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:27,496 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Charles Fechter was an employee for whom as of 2 February 1876?If no answer, say 'N/A'.
+Prediction: Vaudeville
+Processed Targets: ['New Park Theatre']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:27,681 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who is the last employer of Charles Fechter from 1868 to 1879?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['New Park Theatre']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:27,896 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the operator of HMAS Cairns (J183)?If no answer, say 'N/A'.
+Prediction: Royal Australian Navy (RAN).
+Processed Targets: ['Royal Netherlands Navy', 'Royal Netherlands Navy (RNLN)']
+EM: 0, F1: 0.5714
+=================
+
+2025-09-15 20:35:28,073 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the operator of HMAS Cairns (J183) as of 1946?If no answer, say 'N/A'.
+Prediction: Royal Netherlands Navy.
+Processed Targets: ['Royal Netherlands Navy', 'Royal Netherlands Navy (RNLN)']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:28,250 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the operator of HMAS Cairns (J183) as of 1948?If no answer, say 'N/A'.
+Prediction: Royal Australian Navy.
+Processed Targets: ['Royal Netherlands Navy', 'Royal Netherlands Navy (RNLN)']
+EM: 0, F1: 0.6667
+=================
+
+2025-09-15 20:35:28,479 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the last operator of HMAS Cairns (J183) between 16 October 1942 and 11 February 1947?If no answer, say 'N/A'.
+Prediction: Royal Netherlands Navy (RNLN).
+Processed Targets: ['Royal Netherlands Navy', 'Royal Netherlands Navy (RNLN)']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:28,941 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was Gloria Vanderbilt's spouse?If no answer, say 'N/A'.
+Prediction: Gloria Vanderbilt had four spouses.
+Processed Targets: ['Leopold Stokowski']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:29,390 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Gloria Vanderbilt's spouse in 1945?If no answer, say 'N/A'.
+Prediction: Leopold Stokowski.
+Processed Targets: ['Leopold Stokowski']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:29,839 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Gloria Vanderbilt's spouse as of February 20, 1948?If no answer, say 'N/A'.
+Prediction: Leopold Stokowski.
+Processed Targets: ['Leopold Stokowski']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:30,249 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was Gloria Vanderbilt's spouse in 1952?If no answer, say 'N/A'.
+Prediction: Christopher Stokowski
+Processed Targets: ['Leopold Stokowski']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:35:30,673 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was last spouse of Gloria Vanderbilt's spouse between 1941 and 1950?If no answer, say 'N/A'.
+Prediction: Pat DiCicco
+Processed Targets: ['Leopold Stokowski']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:30,944 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which position did Return J. Meigs Jr. hold?If no answer, say 'N/A'.
+Prediction: Governor of Ohio, Postmaster General, Senator.
+Processed Targets: ['Postmaster general']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:35:31,124 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which position did Return J. Meigs Jr. hold in 1814?If no answer, say 'N/A'.
+Prediction: Postmaster General.
+Processed Targets: ['Postmaster general']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:31,317 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which position did Return J. Meigs Jr. hold as of 1819?If no answer, say 'N/A'.
+Prediction: Governor of Ohio.
+Processed Targets: ['Postmaster general']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:31,511 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which position did Return J. Meigs Jr. hold on March 17, 1817?If no answer, say 'N/A'.
+Prediction: Governor of Ohio.
+Processed Targets: ['Postmaster general']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:31,691 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which is the last position Return J. Meigs Jr. hold between 1800 and 1920?If no answer, say 'N/A'.
+Prediction: Postmaster General.
+Processed Targets: ['Postmaster general']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:32,309 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was Merle Oberon's spouse?If no answer, say 'N/A'.
+Prediction: Alexander Korda, Lucien Ballard, Bruno Pagliai, Robert Wolders.
+Processed Targets: ['Lucien Ballard']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:35:32,742 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the first spouse of Merle Oberon since 1945?If no answer, say 'N/A'.
+Prediction: Lucien Ballard
+Processed Targets: ['Lucien Ballard']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:33,176 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first spouse of Merle Oberon since May 7, 1948?If no answer, say 'N/A'.
+Prediction: Alexander Korda
+Processed Targets: ['Lucien Ballard']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:33,612 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was Merle Oberon's spouse between Sep 1946 and Jan 1947?If no answer, say 'N/A'.
+Prediction: David Niven
+Processed Targets: ['Lucien Ballard']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:34,080 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was Elizabeth Montgomery's spouse?If no answer, say 'N/A'.
+Prediction: Elizabeth Montgomery's spouse was Robert Foxworth.
+Processed Targets: ['Robert Foxworth']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:35:34,479 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Elizabeth Montgomery's spouse since 1993?If no answer, say 'N/A'.
+Prediction: Robert Foxworth.
+Processed Targets: ['Robert Foxworth']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:34,989 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last spouse of Elizabeth Montgomery after 1956?If no answer, say 'N/A'.
+Prediction: William Asher (married 1963-1973)
+Processed Targets: ['Robert Foxworth']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:35,389 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was Elizabeth Montgomery's spouse as of June 3, 1994?If no answer, say 'N/A'.
+Prediction: Robert Foxworth.
+Processed Targets: ['Robert Foxworth']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:35,855 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of National Council of French Women?If no answer, say 'N/A'.
+Prediction: Avril de Sainte-Croix.
+Processed Targets: ['Marguerite Pichon-Landry']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:36,333 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the chair of National Council of French Women from 1932 to 1952?If no answer, say 'N/A'.
+Prediction: Marguerite Pichon-Landry.
+Processed Targets: ['Marguerite Pichon-Landry']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:36,704 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of National Council of French Women as of 1942?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Marguerite Pichon-Landry']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:37,080 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of National Council of French Women as of 1946?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Marguerite Pichon-Landry']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:37,551 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the chair of National Council of French Women in Dec 1951?If no answer, say 'N/A'.
+Prediction: Marguerite Pichon-Landry
+Processed Targets: ['Marguerite Pichon-Landry']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:37,924 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of National Council of French Women on 10 May 1948?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Marguerite Pichon-Landry']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:38,157 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Villa Le Balze?If no answer, say 'N/A'.
+Prediction: Georgetown University.
+Processed Targets: ['Margaret Rockefeller Strong de Larrain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:38,533 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Villa Le Balze in 1940?If no answer, say 'N/A'.
+Prediction: Charles Augustus Strong's daughter, Margaret Rockefeller Strong de Larrain.
+Processed Targets: ['Margaret Rockefeller Strong de Larrain']
+EM: 0, F1: 0.7143
+=================
+
+2025-09-15 20:35:38,832 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who owned Villa Le Balze in 1952?If no answer, say 'N/A'.
+Prediction: Margaret Rockefeller Strong de Larrain.
+Processed Targets: ['Margaret Rockefeller Strong de Larrain']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:39,130 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who owned Villa Le Balze as of 1945?If no answer, say 'N/A'.
+Prediction: Margaret Rockefeller Strong de Larrain.
+Processed Targets: ['Margaret Rockefeller Strong de Larrain']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:39,339 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who owned Villa Le Balze between Oct 1945 and Apr 1949?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Margaret Rockefeller Strong de Larrain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:39,640 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who owned Villa Le Balze between 1942 and 1962?If no answer, say 'N/A'.
+Prediction: Margaret Rockefeller Strong de Larrain.
+Processed Targets: ['Margaret Rockefeller Strong de Larrain']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:39,992 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Gerhard Hirschfeld work for?If no answer, say 'N/A'.
+Prediction: University of Stuttgart, Bibliothek für Zeitgeschichte.
+Processed Targets: ['German Historical Institute London']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:40,269 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Gerhard Hirschfeld work for from 1978 to 1989?If no answer, say 'N/A'.
+Prediction: The German Historical Institute London.
+Processed Targets: ['German Historical Institute London']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:40,546 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Gerhard Hirschfeld work for as of 1982?If no answer, say 'N/A'.
+Prediction: Professor Wolfgang Mommsen.
+Processed Targets: ['German Historical Institute London']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:40,797 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Gerhard Hirschfeld work for in 1984?If no answer, say 'N/A'.
+Prediction: Berg Publishers.
+Processed Targets: ['German Historical Institute London']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:41,560 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Odder Municipality?If no answer, say 'N/A'.
+Prediction: Uffe Jensen.
+Processed Targets: ['Elvin J. Hansen']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:42,296 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Odder Municipality between 1998 and 2005?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Elvin J. Hansen']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:43,036 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Odder Municipality as of 27 September 2002?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Elvin J. Hansen']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:43,774 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last chair of Odder Municipality between 1991 and 2003?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Elvin J. Hansen']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:44,511 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the last chair of Odder Municipality before 2012?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Elvin J. Hansen']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:45,184 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Günther Anders?If no answer, say 'N/A'.
+Prediction: Hannah Arendt, Elisabeth Freundlich, and Charlotte Lois Zelka were spouses of
+Processed Targets: ['Hannah Arendt']
+EM: 0, F1: 0.3077
+=================
+
+2025-09-15 20:35:45,671 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Günther Anders in 1929?If no answer, say 'N/A'.
+Prediction: Hannah Arendt
+Processed Targets: ['Hannah Arendt']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:46,170 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Günther Anders in 1935?If no answer, say 'N/A'.
+Prediction: Hannah Arendt.
+Processed Targets: ['Hannah Arendt']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:46,671 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Günther Anders as of 1933?If no answer, say 'N/A'.
+Prediction: Hannah Arendt.
+Processed Targets: ['Hannah Arendt']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:47,453 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What position did Arthur W. Radford take?If no answer, say 'N/A'.
+Prediction: Vice Chief of Naval Operations.
+Processed Targets: ['Chairman of the Joint Chiefs of Staff']
+EM: 0, F1: 0.1818
+=================
+
+2025-09-15 20:35:48,267 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Arthur W. Radford take in 1953?If no answer, say 'N/A'.
+Prediction: Chairman of the Joint Chiefs of Staff.
+Processed Targets: ['Chairman of the Joint Chiefs of Staff']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:49,077 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Arthur W. Radford take between June 11, 1955 and 1956?If no answer, say 'N/A'.
+Prediction: Chairman of the Joint Chiefs of Staff.
+Processed Targets: ['Chairman of the Joint Chiefs of Staff']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:49,884 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What position did Arthur W. Radford take as of 1954?If no answer, say 'N/A'.
+Prediction: Chairman of the Joint Chiefs of Staff.
+Processed Targets: ['Chairman of the Joint Chiefs of Staff']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:50,632 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Axel Springer?If no answer, say 'N/A'.
+Prediction: Martha Else Meyer (first wife), Friede Springer (fifth wife).
+Processed Targets: ['Friede Springer']
+EM: 0, F1: 0.3636
+=================
+
+2025-09-15 20:35:51,199 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the spouse of Axel Springer in 1978?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Friede Springer']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:51,806 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the last spouse of Axel Springer after 1939?If no answer, say 'N/A'.
+Prediction: Friede Springer.
+Processed Targets: ['Friede Springer']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:52,414 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the spouse of Axel Springer in 1981?If no answer, say 'N/A'.
+Prediction: Friede Springer.
+Processed Targets: ['Friede Springer']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:53,007 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the last spouse of Axel Springer between 1968 and 1983?If no answer, say 'N/A'.
+Prediction: Friede Springer
+Processed Targets: ['Friede Springer']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:53,760 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Clive Palmer belong to?If no answer, say 'N/A'.
+Prediction: United Australia Party.
+Processed Targets: ['Queensland division of the Nationals']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:54,491 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Clive Palmer belong to in 1974?If no answer, say 'N/A'.
+Prediction: The Nationals.
+Processed Targets: ['Queensland division of the Nationals']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:35:55,208 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Clive Palmer belong to between 1980 and 2000?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Queensland division of the Nationals']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:55,929 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Clive Palmer belong to as of 25 April 2003?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Queensland division of the Nationals']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:56,728 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Clive Palmer belong to in Dec 1978?If no answer, say 'N/A'.
+Prediction: The Liberal Movement headed by Steele Hall.
+Processed Targets: ['Queensland division of the Nationals']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:57,448 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which political party did Clive Palmer belong to on Apr 20, 1976?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Queensland division of the Nationals']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:57,816 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Aftonbladet?If no answer, say 'N/A'.
+Prediction: The owner of Aftonbladet is Schibsted group.
+Processed Targets: ['Kreuger family']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:58,050 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the owner of Aftonbladet in 1929?If no answer, say 'N/A'.
+Prediction: The Kreuger family.
+Processed Targets: ['Kreuger family']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:58,285 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the owner of Aftonbladet as of 1938?If no answer, say 'N/A'.
+Prediction: Kreuger family.
+Processed Targets: ['Kreuger family']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:58,533 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the first owner of Aftonbladet between 1955 and 1990?If no answer, say 'N/A'.
+Prediction: Lars Johan Hierta
+Processed Targets: ['Kreuger family']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:58,729 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Aftonbladet on 25 August 1954?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Kreuger family']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:58,964 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the owner of Aftonbladet between 1932 and 1940?If no answer, say 'N/A'.
+Prediction: Kreuger family.
+Processed Targets: ['Kreuger family']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:59,230 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Malvik?If no answer, say 'N/A'.
+Prediction: Trond Hoseth
+Processed Targets: ['Terje Granmo']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:59,503 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the chair of Malvik between 2007 and 2015?If no answer, say 'N/A'.
+Prediction: Terje Granmo
+Processed Targets: ['Terje Granmo']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:35:59,742 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Malvik as of 2012?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Terje Granmo']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:35:59,982 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the chair of Malvik in Nov 2013?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Terje Granmo']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:00,193 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Barbara Keyfitz was an employee for whom?If no answer, say 'N/A'.
+Prediction: Ohio State University.
+Processed Targets: ['Columbia University']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:36:00,391 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Barbara Keyfitz was an employee for whom from 1970 to 1976?If no answer, say 'N/A'.
+Prediction: Columbia University
+Processed Targets: ['Columbia University']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:00,576 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Barbara Keyfitz was an employee for whom in 1975?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Columbia University']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:00,775 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Barbara Keyfitz was an employee for whom as of Jun 1973?If no answer, say 'N/A'.
+Prediction: Columbia University
+Processed Targets: ['Columbia University']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:01,006 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head of Military Ordinariate of Canada?If no answer, say 'N/A'.
+Prediction: Scott McCaig.
+Processed Targets: ['André Vallée']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:01,251 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head of Military Ordinariate of Canada in 1987?If no answer, say 'N/A'.
+Prediction: Francis John Spence.
+Processed Targets: ['André Vallée']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:01,444 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head of Military Ordinariate of Canada as of 1990?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['André Vallée']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:01,637 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head of Military Ordinariate of Canada on Feb 20, 1994?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['André Vallée']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:01,830 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head of Military Ordinariate of Canada between 1990 and 1994?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['André Vallée']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:02,101 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Richard de Millau?If no answer, say 'N/A'.
+Prediction: Archbishop of Narbonne.
+Processed Targets: ['Archbishop of Narbonne']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:02,373 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Richard de Millau from 1106 to 1121?If no answer, say 'N/A'.
+Prediction: Archbishop of Narbonne.
+Processed Targets: ['Archbishop of Narbonne']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:02,579 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Richard de Millau from 1112 to 1118?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Archbishop of Narbonne']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:02,852 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Richard de Millau as of  February 15, 1120?If no answer, say 'N/A'.
+Prediction: Archbishop of Narbonne.
+Processed Targets: ['Archbishop of Narbonne']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:03,058 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Richard de Millau on February 20, 1119?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Archbishop of Narbonne']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:03,362 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Maurice René Fréchet work?If no answer, say 'N/A'.
+Prediction: American mathematicians and the British Army.
+Processed Targets: ['University of Poitiers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:03,640 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Maurice René Fréchet work between 1910 and 1919?If no answer, say 'N/A'.
+Prediction: University of Poitiers.
+Processed Targets: ['University of Poitiers']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:03,931 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Maurice René Fréchet work as of 1914?If no answer, say 'N/A'.
+Prediction: The British Army as an interpreter.
+Processed Targets: ['University of Poitiers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:04,157 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Maurice René Fréchet work on 4 August 1915?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['University of Poitiers']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:04,376 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Päivi Räsänen took which position?If no answer, say 'N/A'.
+Prediction: Minister of the Interior.
+Processed Targets: ['chairwoman of the Christian Democrats']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:36:04,607 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Päivi Räsänen took which position in 2004?If no answer, say 'N/A'.
+Prediction: Chairwoman of the Christian Democrats.
+Processed Targets: ['chairwoman of the Christian Democrats']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:04,774 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Päivi Räsänen took which position between 2006 and 2008?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['chairwoman of the Christian Democrats']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:05,007 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Päivi Räsänen took which position as of 29 October 2010?If no answer, say 'N/A'.
+Prediction: Chairperson of the Christian Democrats.
+Processed Targets: ['chairwoman of the Christian Democrats']
+EM: 0, F1: 0.7500
+=================
+
+2025-09-15 20:36:05,280 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Luca Giordano work?If no answer, say 'N/A'.
+Prediction: Italy and Spain.
+Processed Targets: ['Spain']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:36:05,528 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Luca Giordano work in 1962?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Spain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:05,776 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Luca Giordano work in 1968?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Spain']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:06,024 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which country did Luca Giordano work as of 12 January 1695?If no answer, say 'N/A'.
+Prediction: Spain.
+Processed Targets: ['Spain']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:09,005 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the head of German National People's Party?If no answer, say 'N/A'.
+Prediction: Alfred Hugenberg.
+Processed Targets: ['Alfred Hugenberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:11,985 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the head of German National People's Party in 1928?If no answer, say 'N/A'.
+Prediction: Alfred Hugenberg.
+Processed Targets: ['Alfred Hugenberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:14,964 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who was the head of German National People's Party as of 1930?If no answer, say 'N/A'.
+Prediction: Alfred Hugenberg.
+Processed Targets: ['Alfred Hugenberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:17,963 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the head of German National People's Party on 20 July 1932?If no answer, say 'N/A'.
+Prediction: Theodor Duesterberg.
+Processed Targets: ['Alfred Hugenberg']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:18,270 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Ravensburg belong to?If no answer, say 'N/A'.
+Prediction: Germany.
+Processed Targets: ['Kingdom of Württemberg']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:18,672 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Which country did Ravensburg belong to in 1810?If no answer, say 'N/A'.
+Prediction: Kingdom of Württemberg.
+Processed Targets: ['Kingdom of Württemberg']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:19,020 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Ravensburg belong to between 1815 and 1902?If no answer, say 'N/A'.
+Prediction: Württemberg
+Processed Targets: ['Kingdom of Württemberg']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:36:19,409 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Ravensburg belong to in January 1885?If no answer, say 'N/A'.
+Prediction: Baden-Württemberg.
+Processed Targets: ['Kingdom of Württemberg']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:19,874 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Which country did Ravensburg belong to as of 1832?If no answer, say 'N/A'.
+Prediction: Baden-Württemberg (as of 1803)
+Processed Targets: ['Kingdom of Württemberg']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:36:20,393 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who commanded Luftflotte 3?If no answer, say 'N/A'.
+Prediction: Generalleutnant Alexander Holle.
+Processed Targets: ['Hugo Sperrle']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:20,950 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who commanded Luftflotte 3 from Feb 1939 to Aug 1944?If no answer, say 'N/A'.
+Prediction: Generalfeldmarschall Hugo Sperrle.
+Processed Targets: ['Hugo Sperrle']
+EM: 0, F1: 0.8000
+=================
+
+2025-09-15 20:36:21,467 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who commanded Luftflotte 3 between 1941 and 1942?If no answer, say 'N/A'.
+Prediction: Generalleutnant Karl Koller.
+Processed Targets: ['Hugo Sperrle']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:21,907 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who commanded Luftflotte 3 as of 8 May 1943?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Hugo Sperrle']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:22,286 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Laine Mesikäpp work?If no answer, say 'N/A'.
+Prediction: Theatres: Endla Theatre, Estonian National Opera, Estonian Drama Theatre.
+Processed Targets: ['Estonian National Opera']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:36:22,534 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Laine Mesikäpp work in 1949?If no answer, say 'N/A'.
+Prediction: Estonian National Opera musical theatre.
+Processed Targets: ['Estonian National Opera']
+EM: 0, F1: 0.7500
+=================
+
+2025-09-15 20:36:22,768 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Laine Mesikäpp work between 1946 and 1948?If no answer, say 'N/A'.
+Prediction: Estonian National Opera musical theater
+Processed Targets: ['Estonian National Opera']
+EM: 0, F1: 0.7500
+=================
+
+2025-09-15 20:36:22,990 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Laine Mesikäpp work as of 1947?If no answer, say 'N/A'.
+Prediction: Estonian Song Festival.
+Processed Targets: ['Estonian National Opera']
+EM: 0, F1: 0.3333
+=================
+
+2025-09-15 20:36:23,245 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Kai-Uwe von Hassel?If no answer, say 'N/A'.
+Prediction: Minister President of Schleswig-Holstein.
+Processed Targets: ['Federal Minister of Defence']
+EM: 0, F1: 0.5000
+=================
+
+2025-09-15 20:36:23,422 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Kai-Uwe von Hassel between 9 Jan 1963 and 1 Dec 1966?If no answer, say 'N/A'.
+Prediction: Federal Minister of Defence.
+Processed Targets: ['Federal Minister of Defence']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:23,612 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: What was the position of Kai-Uwe von Hassel on 5 February 1965?If no answer, say 'N/A'.
+Prediction: President of the Bundestag
+Processed Targets: ['Federal Minister of Defence']
+EM: 0, F1: 0.2857
+=================
+
+2025-09-15 20:36:23,789 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: What was the position of Kai-Uwe von Hassel as of 1964?If no answer, say 'N/A'.
+Prediction: Federal Minister of Defence.
+Processed Targets: ['Federal Minister of Defence']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:25,370 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Hope Diamond?If no answer, say 'N/A'.
+Prediction: The Smithsonian Museum of Natural History.
+Processed Targets: ['Anne Adele']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:26,909 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Hope Diamond on December 4, 1862?If no answer, say 'N/A'.
+Prediction: Henry Thomas Hope.
+Processed Targets: ['Anne Adele']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:28,432 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Hope Diamond as of 1872?If no answer, say 'N/A'.
+Prediction: Lord Francis Hope
+Processed Targets: ['Anne Adele']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:29,969 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Hope Diamond in 1882?If no answer, say 'N/A'.
+Prediction: Henry Thomas Hope.
+Processed Targets: ['Anne Adele']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:31,508 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who was the owner of Hope Diamond between 1868 and 1878?If no answer, say 'N/A'.
+Prediction: Henry Thomas Hope.
+Processed Targets: ['Anne Adele']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:32,010 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Megyn Kelly work for?If no answer, say 'N/A'.
+Prediction: Fox News, NBC News, and her own company.
+Processed Targets: ['Fox News']
+EM: 0, F1: 0.4000
+=================
+
+2025-09-15 20:36:32,407 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Megyn Kelly work for in 2004?If no answer, say 'N/A'.
+Prediction: Fox News.
+Processed Targets: ['Fox News']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:32,804 - INFO - 
+===== ENTRY =====
+✅ [CORRECT]ID: N/A
+Question: Who did Megyn Kelly work for as of 2012?If no answer, say 'N/A'.
+Prediction: Fox News.
+Processed Targets: ['Fox News']
+EM: 1, F1: 1.0000
+=================
+
+2025-09-15 20:36:33,228 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Who did Megyn Kelly work for on June 2, 2016?If no answer, say 'N/A'.
+Prediction: Vladimir Putin.
+Processed Targets: ['Fox News']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:33,519 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Warlugulong was owned by whom?If no answer, say 'N/A'.
+Prediction: The National Gallery of Australia.
+Processed Targets: ['Hank Ebes']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:33,784 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Warlugulong was owned by whom in 1996?If no answer, say 'N/A'.
+Prediction: The Commonwealth Bank.
+Processed Targets: ['Hank Ebes']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:34,049 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Warlugulong was owned by whom as of 2003?If no answer, say 'N/A'.
+Prediction: The Commonwealth Bank.
+Processed Targets: ['Hank Ebes']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:34,287 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Warlugulong was owned by whom in 2005?If no answer, say 'N/A'.
+Prediction: N/A
+Processed Targets: ['Hank Ebes']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:34,551 - INFO - 
+===== ENTRY =====
+❌ [INCORRECT]ID: N/A
+Question: Warlugulong was owned by whom in 1997?If no answer, say 'N/A'.
+Prediction: The Commonwealth Bank.
+Processed Targets: ['Hank Ebes']
+EM: 0, F1: 0.0000
+=================
+
+2025-09-15 20:36:34,551 - INFO - [COMPLETED] Final results: Total=624, EM=37.02%, F1=47.57%
